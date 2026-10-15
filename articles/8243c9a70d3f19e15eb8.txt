@@ -1,0 +1,29 @@
+Meta 发布了一款可在 Mac 上运行的开放权重 AI 模型
+Meta launches an open-weight AI model that runs on Macs
+来源：TechCrunch AI · 2026-10-15T20:04:53+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs
+
+==========================================================
+第 01 段
+
+[English]
+Meta launches an open-weight AI model that runs on Macs. Meta and Apple have teamed up for the launch of the social media giant's newest
+
+[中文]
+Meta 发布了一款可在 Mac 上运行的开放权重 AI 模型。Meta 与苹果公司携手合作，共同推出了这家社交媒体巨头的最新产品。
+
+重点短语与搭配
+- teamed up for：为……而携手合作
+  用法：用于描述两个实体为了共同目标进行协作。
+- social media giant：社交媒体巨头
+  用法：常用于新闻报道中指代大型科技公司。
+
+语法拆解
+- have teamed up：Meta and Apple have teamed up
+  现在完成时，强调过去发生的动作对现在产生的影响或结果。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs
