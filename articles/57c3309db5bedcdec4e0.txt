@@ -1,0 +1,19 @@
+AMP 将 AI 代理与 OpenAI 模型在代码之外工作
+Amp puts AI agents to work beyond code with OpenAI models
+来源：OpenAI News · 2026-10-14T12:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/amp-beyond-coding
+
+==========================================================
+第 01 段
+
+[English]
+Amp puts AI agents to work beyond code with OpenAI models. See how Amp pushes the frontier of what agents can do with GPT-6 Astra,
+
+[中文]
+Amp让AI代理在代码之外与OpenAI模型工作. 看Amp是如何推动 特工能对GPT-6 Astra做什么的前沿,
+
+----------------------------------------------------------
+
+提示：这是离线机器翻译，未经人工逐句审核；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/amp-beyond-coding
