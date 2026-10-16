@@ -1,0 +1,29 @@
+经过训练后，NVIDIA 的 Nemotron 3.5 Super VL 在专业任务基准测试中击败了 Claude Opus 5 和 GPT-6.1 Sol。
+NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks
+来源：VentureBeat · 2026-10-15T15:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+NVIDIA's Nemotron 3.5 Super VL with post-training beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks. NVIDIA's Nemotron 3.5 Super VL with post-training beats
+
+[中文]
+经过训练后，NVIDIA 的 Nemotron 3.5 Super VL 在专业任务基准测试中击败了 Claude Opus 5 和 GPT-6.1 Sol。经过训练后，NVIDIA 的 Nemotron 3.5 Super VL 击败了它。
+
+重点短语与搭配
+- post-training：训练后（阶段）
+  用法：指模型在预训练之后进行的微调或对齐阶段。
+- specialized task benchmarks：专业任务基准测试
+  用法：用于评估模型在特定领域或任务表现的标准化测试集。
+
+语法拆解
+- beats [A], [B] on [C]：beats Claude Opus 5, GPT-6.1 Sol on specialized task benchmarks
+  表示在某项指标或领域（on）中，击败了多个竞争对手。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMi6wFBVV95cUxOLWRFblUzdUF1ejJTVzQwQ2s0WHhjalR3ZDY4UlBrQ0RMZ3FNRzhVRHRnb1VvM0hHaERyX0xGRURPN1o3VTFGSjhLcmJxV2l4Q01ublBqZjVEWncxQ0swdEVxdk5oX09rNWZrN1dVekZIRjRGbWhydklKVHNjbGFiUWdMMmxLay14MTQ5QnFrRUh5YWFRbVFvOWc5ZlVhekN3c0hLaVllajlSMDJSbkZwdERmMGV2ei14OUJCdV8yVzBMVHBOWWdTWlFINGlNeUZmN2FIXzZGYkttZTA0UEhBNE05VWxzQ1pVRjVF?oc=5
