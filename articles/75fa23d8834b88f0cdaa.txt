@@ -1,0 +1,29 @@
+Elorian 的首个 AI 模型旨在利用图像进行推理，而不仅仅是关于图像的推理。
+Elorian’s first AI model wants to reason with images, not just about them
+来源：TechCrunch AI · 2026-10-16T16:01:37+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them
+
+==========================================================
+第 01 段
+
+[English]
+Elorian’s first AI model wants to reason with images, not just about them. According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart
+
+[中文]
+Elorian 的首个 AI 模型旨在利用图像进行推理，而不仅仅是关于图像的推理。根据 Elorian 的评估，Glimpse 在科学图表方面甚至优于 GPT-6 Astra。
+
+重点短语与搭配
+- According to：根据
+  用法：用于引述来源、报告或评估结果。
+- outperforms：胜过，表现优于
+  用法：常用于比较性能、效率或测试结果。
+
+语法拆解
+- outperforms even X：outperforms even GPT-6 Astra
+  even 在此处起到强调作用，表示程度之深，连通常被认为强大的对象也被超越了。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/16/elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them

@@ -1,0 +1,29 @@
+Jev 是 Vercel 史上采用速度最快的 AI 模型。
+Jev is Vercel’s fastest-adopted AI model ever
+来源：TechCrunch AI · 2026-10-16T15:33:49+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever
+
+==========================================================
+第 01 段
+
+[English]
+Jev is Vercel’s fastest-adopted AI model ever. The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.
+
+[中文]
+Jev 是 Vercel 史上采用速度最快的 AI 模型。该数据来自 Vercel 的 AI 网关，这是一种类似于 OpenRouter 的统一 API 服务。
+
+重点短语与搭配
+- unified API service：统一 API 服务
+  用法：指将多个接口整合在一起的单一服务平台。
+- similar to：类似于
+  用法：用于进行类比，说明两者在功能或性质上的相似性。
+
+语法拆解
+- a [noun phrase], [appositive phrase]：Vercel's AI gateway, a unified API service similar to OpenRouter
+  使用同位语对前文提到的名词进行补充说明，增加信息的具体度。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever

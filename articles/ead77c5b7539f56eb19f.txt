@@ -1,0 +1,31 @@
+PrismML 的三元 AI 模型在不到 6 GB 的内存中运行一个 27B 参数的大脑
+PrismML's ternary AI model runs a 27B brain in under 6 gigabytes
+来源：Startup Fortune · 2026-10-16T15:14:57+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVdhbDhSQ0hkc2hTcV9pN2xOdVFGa21nS3NscVRlckQtUjFqMGEtTjBSUjJmZHREYVoxOTBPeDJTWmU0SHBoOGNKbFF3YUJyVmN3NFVjeFB5Z09FdE1kSmNOTVdNV0IyZkpoUVBtdkVwVUNCMTlramUwN0VNd0JkYVJPbS1iTUN4YkNZVUxtTWxtd2M3b0E?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+PrismML's ternary AI model runs a 27B brain in under 6 gigabytes. PrismML's ternary AI model runs a 27B brain in under 6 gigabytes Startup
+
+[中文]
+PrismML 的三元 AI 模型在不到 6 GB 的内存中运行一个 27B 参数的大脑。PrismML 的三元 AI 模型在不到 6 GB 的内存中运行一个 27B 参数的大脑初创公司
+
+重点短语与搭配
+- ternary AI model：三元人工智能模型
+  用法：指使用三进制权重（通常为 -1, 0, 1）的 AI 模型，用于模型压缩。
+- runs a 27B brain：运行一个 270 亿参数的大脑
+  用法：在 AI 语境下，brain 常指代模型的核心参数规模。
+- in under 6 gigabytes：在不到 6 GB 以内
+  用法：用于描述模型运行所需的内存或显存占用量。
+
+语法拆解
+- 27B：27B brain
+  B 在此处代表 Billion（十亿），是 AI 领域描述模型参数规模的常用缩写。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVdhbDhSQ0hkc2hTcV9pN2xOdVFGa21nS3NscVRlckQtUjFqMGEtTjBSUjJmZHREYVoxOTBPeDJTWmU0SHBoOGNKbFF3YUJyVmN3NFVjeFB5Z09FdE1kSmNOTVdNV0IyZkpoUVBtdkVwVUNCMTlramUwN0VNd0JkYVJPbS1iTUN4YkNZVUxtTWxtd2M3b0E?oc=5
