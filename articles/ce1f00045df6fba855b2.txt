@@ -1,0 +1,23 @@
+DeepSeek 将其新款 V4.1-Flash-1017 模型与其自身的架构结合得更加紧密
+DeepSeek Ties Its New V4.1-Flash-1017 Model Tighter to Its Own Harness
+来源：Startup Fortune · 2026-10-17T12:42:12+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMingFBVV95cUxQZUFkNm9JaDNLYzVRVTcwaDNTNldBMS1XbVZlQ3RpcnBrU3NNczNicTFRYmY2RkY2bmVyZENQZkVhYmRLUnpKMFZhTmQwamVNUlp2RzRmWFlNZU1jdUxnUlZ1WHBBVWhlVnR4ck5YRFhmaTZ4WWV0Q3JGUmFJLUJkWUI4TzdrWTFXMGJoTW9UR0oxNWs0N1VXRnNVRE9FUQ?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+DeepSeek Ties Its New V4.1-Flash-1017 Model Tighter to Its Own Harness. DeepSeek Ties Its New V4.1-Flash-1017 Model Tighter to Its Own Harness Startup Fortune
+
+[中文]
+DeepSeek 将其新款 V4.1-Flash-1017 模型与其自身的架构结合得更加紧密。DeepSeek 将其新款 V4.1-Flash-1017 模型与其自身的架构结合得更加紧密 创业财富
+
+语法拆解
+- Ties [object] [comparative adjective] to [target]：Ties Its New V4.1-Flash-1017 Model Tighter to Its Own Harness
+  这是一种使役性表达，通过比较级形容词（tighter）修饰动作（ties），强调整合程度的提升。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMingFBVV95cUxQZUFkNm9JaDNLYzVRVTcwaDNTNldBMS1XbVZlQ3RpcnBrU3NNczNicTFRYmY2RkY2bmVyZENQZkVhYmRLUnpKMFZhTmQwamVNUlp2RzRmWFlNZU1jdUxnUlZ1WHBBVWhlVnR4ck5YRFhmaTZ4WWV0Q3JGUmFJLUJkWUI4TzdrWTFXMGJoTW9UR0oxNWs0N1VXRnNVRE9FUQ?oc=5
