@@ -1,0 +1,29 @@
+DeepSeek 发布了更新后的 AI 模型，称其速度更快、更精简
+DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner
+来源：Bloomberg.com · 2026-10-17T13:47:14+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHZHRFlIcjhzUGVRNUw1SGhBSzBlY0d6T05ycVhsZUhJTEFzd1lONmpyclVfWjdmX2dMY0E1bGtvSGlocVdrUldlcWV4MEZBUzBxS3hlWndpZW1BMXc1bWo1UnpyZEw2Qzd5LUltbkNsX2xxLXNXOWx4eF9hTXFWTVo2Uy1kWnUxVldPaDBoYnNrMHNISWpydFdDSkh0TkV1ZWt6OHVwbm4zNGtJWUMweFdwRldmQWZDNUhCNlc0TElNZw?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner. DeepSeek Pushes Out Updated AI Model It Says Is Faster, Leaner Bloomberg.com
+
+[中文]
+DeepSeek 发布了更新后的 AI 模型，称其速度更快、更精简。DeepSeek 发布了更新后的 AI 模型，称其速度更快、更精简 Bloomberg.com
+
+重点短语与搭配
+- Pushes Out：推出，发布
+  用法：常用于描述公司发布新产品或软件更新。
+- Leaner：更精简的
+  用法：在科技语境下指模型参数更少、运行效率更高。
+
+语法拆解
+- It Says Is...：It Says Is Faster, Leaner
+  这是一个插入语结构，用于引用主语的观点，省略了 that。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNHZHRFlIcjhzUGVRNUw1SGhBSzBlY0d6T05ycVhsZUhJTEFzd1lONmpyclVfWjdmX2dMY0E1bGtvSGlocVdrUldlcWV4MEZBUzBxS3hlWndpZW1BMXc1bWo1UnpyZEw2Qzd5LUltbkNsX2xxLXNXOWx4eF9hTXFWTVo2Uy1kWnUxVldPaDBoYnNrMHNISWpydFdDSkh0TkV1ZWt6OHVwbm4zNGtJWUMweFdwRldmQWZDNUhCNlc0TElNZw?oc=5
