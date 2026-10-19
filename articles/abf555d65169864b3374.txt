@@ -1,0 +1,27 @@
+Stripe 将以 75 亿美元收购人工智能模型“交通警察” OpenRouter。
+Stripe will pay $7.5 billion for OpenRouter, the AI model traffic cop
+来源：Startup Fortune · 2026-10-19T05:29:45+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEdsYm5JLXM5cHR3eVBIcnk4TzhJNTlfbEM0d1NWeE5GczVJWGcwLXAyVkR3YUVBUmtQY0loZzdENnNoOUdBM2E1dXkwdkhyay1pNEVZSVl0Z3htN0lRcF84ZzFMTnJIV2owbUZEaHpFaHlLNXJhVE5ibTZYdlBHZGxJNFhvRVRfcmZwTU5EZXpjWXFzT3g2ZFFR?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Stripe will pay $7.5 billion for OpenRouter, the AI model traffic cop. Stripe will pay $7.5 billion for OpenRouter, the AI model traffic cop Startup
+
+[中文]
+Stripe 将以 75 亿美元收购人工智能模型“交通警察” OpenRouter。Stripe 将以 75 亿美元收购人工智能模型“交通警察” OpenRouter 初创公司。
+
+重点短语与搭配
+- pay $7.5 billion for：以 75 亿美元收购/支付
+  用法：用于描述企业并购或大额交易的金额。
+- AI model：人工智能模型
+  用法：科技领域常用术语，指代机器学习模型。
+- traffic cop：交通警察（比喻义）
+  用法：在此处比喻 OpenRouter 在 AI 模型请求分发中起到的调度和管理作用。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMimgFBVV95cUxQVEdsYm5JLXM5cHR3eVBIcnk4TzhJNTlfbEM0d1NWeE5GczVJWGcwLXAyVkR3YUVBUmtQY0loZzdENnNoOUdBM2E1dXkwdkhyay1pNEVZSVl0Z3htN0lRcF84ZzFMTnJIV2owbUZEaHpFaHlLNXJhVE5ibTZYdlBHZGxJNFhvRVRfcmZwTU5EZXpjWXFzT3g2ZFFR?oc=5

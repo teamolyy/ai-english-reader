@@ -1,0 +1,29 @@
+DeepSeek 低调发布 V4.1-Flash-1017，在智能体任务上击败竞争对手
+DeepSeek Quietly Ships V4.1-Flash-1017, Beating Rivals on Agent Tasks
+来源：Startup Fortune · 2026-10-19T04:50:08+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWs3blFMYWQ4NVVUZVlOSjdYUk1PenFfclNxY181Y3kzaWFIdVRQWW9DLVNtODlSTXpWWVRDM1ZmTFBiQVU4d3FPazJUdjBhM3hpTlZrRHJHVGhKMXo0cGdjNl8yS1VuYko0cXR4ejZXZHBTVEdNTHRVQ3BEQjdmTXdjN1B1dzFibVNESmtscXFSUUh3dDA1NW1HSQ?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+DeepSeek Quietly Ships V4.1-Flash-1017, Beating Rivals on Agent Tasks. DeepSeek Quietly Ships V4.1-Flash-1017, Beating Rivals on Agent Tasks Startup Fortune
+
+[中文]
+DeepSeek 低调发布 V4.1-Flash-1017，在智能体任务上击败竞争对手。DeepSeek 低调发布 V4.1-Flash-1017，在智能体任务上击败竞争对手 Startup Fortune
+
+重点短语与搭配
+- Quietly Ships：低调发布
+  用法：用于描述产品发布过程中的低调策略。
+- Beating Rivals：击败竞争对手
+  用法：用于强调在特定领域超越竞争对手。
+
+语法拆解
+- V-ing (present participle) as a result or concurrent action：Beating Rivals on Agent Tasks
+  通过分词短语补充说明主句动作的后续影响。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMimwFBVV95cUxPRWs3blFMYWQ4NVVUZVlOSjdYUk1PenFfclNxY181Y3kzaWFIdVRQWW9DLVNtODlSTXpWWVRDM1ZmTFBiQVU4d3FPazJUdjBhM3hpTlZrRHJHVGhKMXo0cGdjNl8yS1VuYko0cXR4ejZXZHBTVEdNTHRVQ3BEQjdmTXdjN1B1dzFibVNESmtscXFSUUh3dDA1NW1HSQ?oc=5
