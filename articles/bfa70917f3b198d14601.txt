@@ -1,0 +1,29 @@
+英伟达发布新的开源模型，旨在企业和个人电脑上运行智能体
+Nvidia launches new open models to run agents in the enterprise and on PCs
+来源：TechCrunch AI · 2026-10-19T15:37:09+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs
+
+==========================================================
+第 01 段
+
+[English]
+Nvidia launches new open models to run agents in the enterprise and on PCs. Nvidia is leaning hard into the trend of enterprise companies wanting
+
+[中文]
+英伟达发布新的开源模型，旨在企业和个人电脑上运行智能体。英伟达正全力投入企业公司需求这一趋势。
+
+重点短语与搭配
+- leaning hard into：全力投入/积极拥抱
+  用法：形容企业在战略上高度重视并积极跟进某项趋势。
+- enterprise companies：企业级公司
+  用法：指大型商业机构或企业客户。
+
+语法拆解
+- wanting：companies wanting
+  现在分词作后置定语，修饰前面的companies，表示这些公司正处于某种需求状态。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs
