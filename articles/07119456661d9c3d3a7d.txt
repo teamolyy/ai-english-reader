@@ -1,0 +1,31 @@
+MiniMax 的新款 M3.1 Flash 在一项关键业务基准测试中以更低的成本击败了 DeepSeek 和 Opus 5，但其幻觉率较高。
+MiniMax's new M3.1 Flash beats DeepSeek and Opus 5 on a key business benchmark at lower cost — but with a high hallucination rate
+来源：VentureBeat · 2026-10-19T19:38:49+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM3JzM3V4SnNLeTJiUFQ1LXozbnBUMGpMV2hISjR3WUtSU09EVDQzV2lGVnFuQ3d4T08zS1lCSDNiN0ZMckVPLWZ3aERsYU1IM1BhVHdfSjNpLWtlSktXemswajhUaktvWGFxbFFSdUxjMUVDbDNUMTN1ZHNob195emVVMVJucDhGRjhzUTZ6VGpnRFhPckM3T0tHTDU1Y0FQZktZY2JDdjFZWi1YRFlzMFg3bXZ3UkZna1ZBZEJYdHZxWENqbk9EMWR4b1hIS3VGdTE3MU1nd3Q1V2dlMDZxQnRWSUx1NDM2ZHRYcG8zU01kLVE?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+MiniMax's new M3.1 Flash beats DeepSeek and Opus 5 on a key business benchmark at lower cost — but with a high hallucination rate. MiniMax's
+
+[中文]
+MiniMax 的新款 M3.1 Flash 在一项关键业务基准测试中以更低的成本击败了 DeepSeek 和 Opus 5，但其幻觉率较高。MiniMax 的
+
+重点短语与搭配
+- key business benchmark：关键业务基准
+  用法：用于描述评估企业级 AI 模型性能的核心指标。
+- at lower cost：以更低的成本
+  用法：常用于对比产品性价比时，强调经济优势。
+- hallucination rate：幻觉率
+  用法：AI 领域术语，指模型生成虚假或错误信息的频率。
+
+语法拆解
+- beats [A] and [B] on [C]：beats DeepSeek and Opus 5 on a key business benchmark
+  表示在某项特定领域或测试中超越竞争对手。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMi8wFBVV95cUxOM3JzM3V4SnNLeTJiUFQ1LXozbnBUMGpMV2hISjR3WUtSU09EVDQzV2lGVnFuQ3d4T08zS1lCSDNiN0ZMckVPLWZ3aERsYU1IM1BhVHdfSjNpLWtlSktXemswajhUaktvWGFxbFFSdUxjMUVDbDNUMTN1ZHNob195emVVMVJucDhGRjhzUTZ6VGpnRFhPckM3T0tHTDU1Y0FQZktZY2JDdjFZWi1YRFlzMFg3bXZ3UkZna1ZBZEJYdHZxWENqbk9EMWR4b1hIS3VGdTE3MU1nd3Q1V2dlMDZxQnRWSUx1NDM2ZHRYcG8zU01kLVE?oc=5
