@@ -1,0 +1,29 @@
+FairStress：对大语言模型决策中公平性的更深入评估
+FairStress: A deeper evaluation of fairness in LLM decision-making
+来源：Hugging Face Blog · 2026-10-20T16:09:19+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://huggingface.co/blog/allenai/fairstress
+
+==========================================================
+第 01 段
+
+[English]
+FairStress: A deeper evaluation of fairness in LLM decision-making.
+
+[中文]
+FairStress：对大语言模型决策中公平性的更深入评估。
+
+重点短语与搭配
+- deeper evaluation：更深入的评估
+  用法：用于描述对某项研究或分析的深度和广度。
+- LLM decision-making：大语言模型决策
+  用法：指代大语言模型在处理任务时所做出的判断或选择过程。
+
+语法拆解
+- A of B：evaluation of fairness
+  名词短语结构，表示对某事物的评估，其中of连接被评估的对象。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://huggingface.co/blog/allenai/fairstress

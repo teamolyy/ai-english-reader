@@ -1,0 +1,27 @@
+植物可以通过电信号进行交流，因此这家初创公司构建了一个人工智能模型来破译它们的语言
+Plants can speak using electricity, so this startup built an AI model to decipher their language
+来源：TechCrunch AI · 2026-10-20T16:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language
+
+==========================================================
+第 01 段
+
+[English]
+Plants can speak using electricity, so this startup built an AI model to decipher their language. Electric Plant has built an AI-powered translator to help
+
+[中文]
+植物可以通过电信号进行交流，因此这家初创公司构建了一个人工智能模型来破译它们的语言。Electric Plant 已经构建了一个人工智能驱动的翻译器来提供帮助
+
+重点短语与搭配
+- AI-powered translator：人工智能驱动的翻译器
+  用法：用于描述由人工智能技术支持的工具。
+
+语法拆解
+- have/has built：Electric Plant has built an AI-powered translator
+  现在完成时，强调过去发生的动作对现在产生的影响。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/20/plants-can-speak-using-electricity-so-this-startup-built-an-ai-model-to-decipher-their-language
