@@ -1,0 +1,27 @@
+萨提亚·纳德拉表示，每一个人工智能模型都应被视为内部威胁。
+Satya Nadella says every AI model should be treated as an insider threat
+来源：Startup Fortune · 2026-10-19T22:50:06+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEVzQ0VvQTYwU1hESjg0bFowRkVuS09uQUNYNUlKT2o0MGJIVzVVMTdqQ3FXMkxTdzRUb1FtUDJrTXN2Tjc3U3lYSHptUXdLdHhtOGtfNVVrNkt3a0xkOE5zWDZIOUtKTWZvOFVyTURYS3ZHTHktVEoybmE5cDhFaFlXWFdYMHRjMTJ0NnNHR2N5a1VRVFhRRDlLcmQwcEE4WFE?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Satya Nadella says every AI model should be treated as an insider threat. Satya Nadella says every AI model should be treated as an insider
+
+[中文]
+萨提亚·纳德拉表示，每一个人工智能模型都应被视为内部威胁。萨提亚·纳德拉表示，每一个人工智能模型都应被视为内部威胁。
+
+重点短语与搭配
+- insider threat：内部威胁
+  用法：指来自组织内部人员或系统的安全风险。
+
+语法拆解
+- every + [单数名词]：every AI model
+  every 后面必须接单数可数名词，用于强调整体中的每一个个体。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEVzQ0VvQTYwU1hESjg0bFowRkVuS09uQUNYNUlKT2o0MGJIVzVVMTdqQ3FXMkxTdzRUb1FtUDJrTXN2Tjc3U3lYSHptUXdLdHhtOGtfNVVrNkt3a0xkOE5zWDZIOUtKTWZvOFVyTURYS3ZHTHktVEoybmE5cDhFaFlXWFdYMHRjMTJ0NnNHR2N5a1VRVFhRRDlLcmQwcEE4WFE?oc=5

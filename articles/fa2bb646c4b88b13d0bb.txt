@@ -1,0 +1,27 @@
+微软表示人工智能代理如同内部威胁，因为“前沿模型不可信”。
+Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’
+来源：TechCrunch AI · 2026-10-19T22:04:28+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted
+
+==========================================================
+第 01 段
+
+[English]
+Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’. Microsoft wants enterprises to closely watch the agents employees use with
+
+[中文]
+微软表示人工智能代理如同内部威胁，因为“前沿模型不可信”。微软希望企业密切监控员工所使用的代理。
+
+重点短语与搭配
+- closely watch：密切监控/严密观察
+  用法：用于强调对某事物进行持续、仔细的监督。
+
+语法拆解
+- noun + relative clause (omitted 'that')：the agents employees use
+  在 agents 之后省略了关系代词 that 或 which，修饰前面的名词，表示“员工使用的代理”。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted
