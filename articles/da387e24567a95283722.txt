@@ -1,0 +1,31 @@
+得益于一款让专家们赞不绝口的物理人工智能模型，Eka 的估值达到了 14.5 亿美元。
+Eka is worth $1.45B thanks to a physical AI model that has experts raving
+来源：TechCrunch AI · 2026-10-20T13:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving
+
+==========================================================
+第 01 段
+
+[English]
+Eka is worth $1.45B thanks to a physical AI model that has experts raving. Eka Robotics may be the first robotic arm that is actually
+
+[中文]
+得益于一款让专家们赞不绝口的物理人工智能模型，Eka 的估值达到了 14.5 亿美元。Eka Robotics 可能是第一个真正意义上的机械臂。
+
+重点短语与搭配
+- worth $1.45B：估值为 14.5 亿美元
+  用法：用于描述公司或资产的市场价值。
+- robotic arm：机械臂
+  用法：工业或科技领域中对自动化机械手臂的称呼。
+
+语法拆解
+- may be the first + [noun] + that is...：may be the first robotic arm that is actually
+  用于推测某事物在同类中具有开创性地位。
+- thanks to + [noun phrase]：thanks to a physical AI model
+  用于引出导致某种结果的原因。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving
