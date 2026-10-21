@@ -1,0 +1,29 @@
+Anthropic 推出全新 AI 智能体 Claude Duet，对标 Muse
+Anthropic takes on Muse with Claude Duet, its new AI agent
+来源：The Verge AI · 2026-10-21T19:54:52+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic takes on Muse with Claude Duet, its new AI agent. Anthropic just announced an AI agent competitor to Meta's Muse and OpenAI's Dots: Claude
+
+[中文]
+Anthropic 推出全新 AI 智能体 Claude Duet，对标 Muse。Anthropic 刚刚宣布推出一款 AI 智能体，旨在与 Meta 的 Muse 和 OpenAI 的 Dots 展开竞争：Claude
+
+重点短语与搭配
+- takes on：挑战，与……竞争
+  用法：用于描述产品对标竞争对手。
+- AI agent competitor：AI 智能体竞争对手
+  用法：指在同一领域内提供类似功能的竞争产品。
+
+语法拆解
+- Noun + : + Noun：Dots: Claude
+  冒号用于引出具体名称或解释说明，起到强调作用。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1015843/anthropic-claude-duet-ai-agent

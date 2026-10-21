@@ -1,0 +1,29 @@
+OpenAI 模型即将登陆 Google Cloud
+OpenAI models are coming to Google Cloud
+来源：OpenAI News · 2026-10-21T12:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/openai-models-google-cloud
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI models are coming to Google Cloud. OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google
+
+[中文]
+OpenAI 模型即将登陆 Google Cloud。OpenAI 和 Google Cloud 正在将前沿模型和 Codex 工作流引入 Gemini 的模型库（Model Garden），并可通过 Google 获取。
+
+重点短语与搭配
+- frontier models：前沿模型
+  用法：指人工智能领域中最先进、性能最强的模型。
+- Model Garden：模型库
+  用法：Google Cloud 平台中用于发现和部署 AI 模型的中心化服务。
+
+语法拆解
+- are bringing... to...：OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden
+  表示将某物引入或整合到某个平台中，强调合作带来的功能扩展。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/openai-models-google-cloud

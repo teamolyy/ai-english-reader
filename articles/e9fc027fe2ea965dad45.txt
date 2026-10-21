@@ -1,0 +1,31 @@
+Recursive 发布了 Flint，这是一款该公司称主要由人工智能构建的笔记本电脑编程模型。
+Recursive launches Flint, a laptop coding model it says was largely built by AI
+来源：TechCrunch AI · 2026-10-21T20:27:41+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai
+
+==========================================================
+第 01 段
+
+[English]
+Recursive launches Flint, a laptop coding model it says was largely built by AI. Startup Recursive has released Flint, a free, laptop-sized coding model built
+
+[中文]
+Recursive 发布了 Flint，这是一款该公司称主要由人工智能构建的笔记本电脑编程模型。初创公司 Recursive 发布了 Flint，这是一款免费的、笔记本电脑大小的编程模型。
+
+重点短语与搭配
+- laptop-sized：笔记本电脑大小的
+  用法：形容体积小巧，可以在笔记本电脑上运行。
+- coding model：编程模型
+  用法：指专门用于辅助编写代码的人工智能模型。
+
+语法拆解
+- it says was...：a laptop coding model it says was largely built by AI
+  插入语从句，用于转述公司对该模型的描述。
+- Noun + past participle phrase：a free, laptop-sized coding model built
+  使用过去分词短语作为后置定语，修饰前面的名词，表示被动含义。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai
