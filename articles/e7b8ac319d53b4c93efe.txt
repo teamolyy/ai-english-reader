@@ -1,0 +1,29 @@
+Anthropic 提议一项 AI 安全法案，若模型可能导致 50 人以上死亡，则该模型可能被封禁。
+Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
+来源：TechCrunch AI · 2026-10-20T23:01:23+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic pitches AI safety bill that may block a model if 50+ people could be killed. The proposed policy seems to offer protections against AI
+
+[中文]
+Anthropic 提议一项 AI 安全法案，若模型可能导致 50 人以上死亡，则该模型可能被封禁。这项拟议的政策似乎为防范 AI 提供了保护。
+
+重点短语与搭配
+- proposed policy：拟议政策
+  用法：指尚未正式实施但已提出讨论的政策。
+- offer protections against：提供针对……的保护
+  用法：用于描述某项措施如何防御特定风险。
+
+语法拆解
+- seems to offer：seems to offer protections
+  使用 seem to 结构表达一种推测性的观点，语气较为委婉。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed
