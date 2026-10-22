@@ -1,0 +1,29 @@
+Canva 的首个 AI 图像模型在生成设计前会先进行规划
+Canva’s first AI image model plans designs before generating them
+来源：The Verge AI · 2026-10-22T21:53:22+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model
+
+==========================================================
+第 01 段
+
+[English]
+Canva’s first AI image model plans designs before generating them. Canva is diving even deeper into AI with the launch of an image generation model
+
+[中文]
+Canva 的首个 AI 图像模型在生成设计前会先进行规划。随着图像生成模型的推出，Canva 正在更深入地探索 AI 领域
+
+重点短语与搭配
+- diving even deeper into：更深入地钻研/探索
+  用法：形容在某个领域投入更多精力或进行更深层次的开发。
+- image generation model：图像生成模型
+  用法：专指能够根据指令生成图像的 AI 技术。
+
+语法拆解
+- with the launch of：with the launch of an image generation model
+  介词短语，用于说明伴随发生的事件或背景原因。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model
