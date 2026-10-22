@@ -1,0 +1,27 @@
+随着决策模型竞争日趋激烈，OpenAI 将其 Jev 竞争对手产品广泛推向市场
+OpenAI makes its Jev competitor widely available as decision model competition heats up
+来源：TechCrunch AI · 2026-10-22T19:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI makes its Jev competitor widely available as decision model competition heats up. OpenAI is launching its decision model to the world. Can it compete
+
+[中文]
+随着决策模型竞争日趋激烈，OpenAI 将其 Jev 竞争对手产品广泛推向市场。OpenAI 正在向全球发布其决策模型。它能参与竞争吗？
+
+重点短语与搭配
+- compete：竞争
+  用法：用于描述在市场或领域中与对手较量。
+
+语法拆解
+- Can it + 动词原形：Can it compete
+  用于询问某事物是否具备某种能力或潜力，是常见的疑问句式。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up

@@ -1,0 +1,29 @@
+Canva 发布了其首个图像生成模型
+Canva releases its first image generation model
+来源：TechCrunch AI · 2026-10-22T19:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model
+
+==========================================================
+第 01 段
+
+[English]
+Canva releases its first image generation model. Canva is making its new image model available to all users, promising better, more customizable performance at lower
+
+[中文]
+Canva 发布了其首个图像生成模型。Canva 正在向所有用户开放其新的图像模型，承诺以更低的成本提供更好、更具定制化的性能。
+
+重点短语与搭配
+- making its new image model available to：向……提供其新的图像模型
+  用法：常用于描述软件功能或服务正式向用户开放。
+- customizable performance：可定制的性能
+  用法：指用户可以根据需求调整或配置的系统表现。
+
+语法拆解
+- promising + [adj] + performance：promising better, more customizable performance
+  使用现在分词短语作状语，表示伴随的结果或承诺的内容。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model
