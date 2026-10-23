@@ -1,0 +1,27 @@
+杰克·多西的 Block 公司开发了一款人工智能模型，它和你交谈的方式就像一个笨拙的新朋友。
+Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
+来源：The Verge AI · 2026-10-23T19:32:39+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
+
+==========================================================
+第 01 段
+
+[English]
+Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend. Jack Dorsey's Block announced an AI model called Dessa
+
+[中文]
+杰克·多西的 Block 公司开发了一款人工智能模型，它和你交谈的方式就像一个笨拙的新朋友。杰克·多西的 Block 公司宣布了一款名为 Dessa 的人工智能模型。
+
+重点短语与搭配
+- announced an AI model：发布了一款人工智能模型
+  用法：常用于科技公司正式对外公布新产品或新技术。
+
+语法拆解
+- called [Name]：an AI model called Dessa
+  过去分词短语作后置定语，相当于 which is called Dessa，用于引出专有名词。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech
