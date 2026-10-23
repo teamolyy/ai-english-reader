@@ -1,0 +1,27 @@
+OpenAI 表示将不再使用实时互联网数据来训练其 AI 模型，并援引了“重大风险”作为理由。
+OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”
+来源：TechCrunch AI · 2026-10-23T23:05:49+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”. OpenAI will cut frontier models off from the
+
+[中文]
+OpenAI 表示将不再使用实时互联网数据来训练其 AI 模型，并援引了“重大风险”作为理由。OpenAI 将切断前沿模型与……的连接。
+
+重点短语与搭配
+- frontier models：前沿模型
+  用法：指处于人工智能技术发展最尖端、能力最强的模型。
+
+语法拆解
+- cut [object] off from [source]：cut frontier models off from the
+  这是一个动词短语结构，表示将某物从某处隔离或断开。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks
