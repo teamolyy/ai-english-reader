@@ -1,0 +1,31 @@
+OpenAI 在模型训练期间禁用了互联网访问，而 Anthropic 则再次发表了道歉声明。
+OpenAI disables internet access during model training while Anthropic issues another mea culpa
+来源：The Register · 2026-10-23T22:36:11+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVMxbXlyS2JEMTBHUmllX1hralpkMy11VTFfdUtlR3pTa1RyYkZTZUJvNkx2MF9yRVVJMElUVUhzQUtYdGFRamxlM2NTVDk5WFJ5TDJZbS1qUzJQUXJQTUZxSGtQVUlSN2J6ZGhUTzBuQ2FfaGdRQTRJVnRocVdZZGluMlp6Y05uTkFlZG5hQWU5YldkNTBmTnk4Uy12Rl9kcmJJMWxwSWN4WlhCVkJvVnJQT0tDQTdqbUlLak1IR1FKejNudC01cVFWOEZSWXhkbXBZbnA3bGhYWEh6NHQ2TVpyaHA1UQ?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI disables internet access during model training while Anthropic issues another mea culpa. OpenAI disables internet access during model training while Anthropic issues another mea
+
+[中文]
+OpenAI 在模型训练期间禁用了互联网访问，而 Anthropic 则再次发表了道歉声明。OpenAI 在模型训练期间禁用了互联网访问，而 Anthropic 则再次发表了道歉
+
+重点短语与搭配
+- internet access：互联网访问权限
+  用法：常用于描述网络连接或访问受限的语境。
+- model training：模型训练
+  用法：人工智能领域常用术语，指机器学习模型学习数据的过程。
+- mea culpa：我的过错；道歉声明
+  用法：源自拉丁语，常用于正式或新闻语境中表示承认错误。
+
+语法拆解
+- while：OpenAI disables internet access during model training while Anthropic issues another mea culpa
+  在此处用作连词，表示对比，意为“而”、“然而”。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVMxbXlyS2JEMTBHUmllX1hralpkMy11VTFfdUtlR3pTa1RyYkZTZUJvNkx2MF9yRVVJMElUVUhzQUtYdGFRamxlM2NTVDk5WFJ5TDJZbS1qUzJQUXJQTUZxSGtQVUlSN2J6ZGhUTzBuQ2FfaGdRQTRJVnRocVdZZGluMlp6Y05uTkFlZG5hQWU5YldkNTBmTnk4Uy12Rl9kcmJJMWxwSWN4WlhCVkJvVnJQT0tDQTdqbUlLak1IR1FKejNudC01cVFWOEZSWXhkbXBZbnA3bGhYWEh6NHQ2TVpyaHA1UQ?oc=5
