@@ -1,0 +1,27 @@
+随着对人工智能驱动的网络攻击的担忧日益加剧，月之暗面（Moonshot）在新版 Kimi 模型中限制了黑客攻击能力。
+Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks
+来源：Reuters · 2026-10-24T04:25:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Moonshot curbs hacking ability in new Kimi model as fears grow over AI-powered cyberattacks. Moonshot curbs hacking ability in new Kimi model as fears grow
+
+[中文]
+随着对人工智能驱动的网络攻击的担忧日益加剧，月之暗面（Moonshot）在新版 Kimi 模型中限制了黑客攻击能力。随着对人工智能驱动的网络攻击的担忧日益加剧，月之暗面（Moonshot）限制了新版 Kimi 模型的黑客攻击能力。
+
+重点短语与搭配
+- curbs hacking ability：限制黑客攻击能力
+  用法：用于描述科技公司通过技术手段对模型功能进行安全合规性约束。
+
+语法拆解
+- as + 从句：as fears grow over AI-powered cyberattacks
+  在句首或句中引导从句，表示伴随状态或背景原因。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWlpZNXVZQXBxZ1hCTzA4X0VZYUh0QkhJb281X3VmMUt0VVZRY0N2N1Fja1dyZlB4cGlsTGktdjRaRzEzSDgtR01QS1F4V0ZsN0lsbzdTRjhRbG1MMlhfMkluTkxwTXFhOG1XZVVpRlRJX29ULXBEcUdTQUpoa2NkUmRMZFhDbkF3a0N3SDlqbTg1QnR3aFkwSW9LS181X0hsbXM1bXF2a0ZTWldQdlBMSlJRSzFoOGI2aFRF?oc=5
