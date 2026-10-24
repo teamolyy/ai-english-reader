@@ -1,0 +1,27 @@
+Block 的新语音模型听起来像人一样，令人毛骨悚然
+Block’s new voice model sounds eerily human
+来源：TechCrunch AI · 2026-10-24T16:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human
+
+==========================================================
+第 01 段
+
+[English]
+Block’s new voice model sounds eerily human. Block said that the voice model can run locally on a MacBook M4 Max
+
+[中文]
+Block 的新语音模型听起来像人一样，令人毛骨悚然。Block 表示该语音模型可以在 MacBook M4 Max 上本地运行
+
+重点短语与搭配
+- run locally：本地运行
+  用法：指软件或模型在用户设备上直接运行，无需连接云端服务器。
+
+语法拆解
+- can run locally on：the voice model can run locally on a MacBook M4 Max
+  表示某项技术具备在特定硬件设备上独立执行的能力。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human
