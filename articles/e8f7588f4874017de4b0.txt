@@ -1,0 +1,27 @@
+OpenAI 推出经济实惠的中端 GPT-6.1 Terra
+OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra
+来源：The Register · 2026-10-26T23:08:59+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlaQlJZSTRmSnp5WkJ3ZmprNUU4VnZkNjRCdTFYOEN1QVBSRXlTVnRmVmdWckFMMWc2N2V1OEJhN1VqMVZ3TFhNX0xuUlZsRk10aW9iUTJRNVp3eC1VbzVmOWJtN2ZBS05TUEtyNmkwekpjdU8yVlFuS3R5ejRySlBobEpWam9DS1BJNXBfd21lQlpjTkpSSGVtS3ZXaU0tVHJxN0JiZVlWeUlmZ2c?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra. OpenAI rolls out budget-priced mid-tier GPT-6.1 Terra The Register
+
+[中文]
+OpenAI 推出经济实惠的中端 GPT-6.1 Terra。OpenAI 推出经济实惠的中端 GPT-6.1 Terra The Register
+
+重点短语与搭配
+- rolls out：推出，发布
+  用法：常用于描述公司发布新产品或服务。
+- budget-priced：经济实惠的，价格亲民的
+  用法：形容产品定价较低，适合大众消费。
+- mid-tier：中端的
+  用法：指产品定位在入门级和高端级之间。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMirgFBVV95cUxOZFlaQlJZSTRmSnp5WkJ3ZmprNUU4VnZkNjRCdTFYOEN1QVBSRXlTVnRmVmdWckFMMWc2N2V1OEJhN1VqMVZ3TFhNX0xuUlZsRk10aW9iUTJRNVp3eC1VbzVmOWJtN2ZBS05TUEtyNmkwekpjdU8yVlFuS3R5ejRySlBobEpWam9DS1BJNXBfd21lQlpjTkpSSGVtS3ZXaU0tVHJxN0JiZVlWeUlmZ2c?oc=5
