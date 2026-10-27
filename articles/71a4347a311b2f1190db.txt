@@ -1,0 +1,29 @@
+Cadence 发布了一套芯片制造商可以在内部运行的 AI 模型
+Cadence unveils suite of AI models that chipmakers can run in-house
+来源：Reuters · 2026-10-26T17:22:18+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Cadence unveils suite of AI models that chipmakers can run in-house. Cadence unveils suite of AI models that chipmakers can run in-house Reuters
+
+[中文]
+Cadence 发布了一套芯片制造商可以在内部运行的 AI 模型。Cadence 发布了一套芯片制造商可以在内部运行的 AI 模型 路透社
+
+重点短语与搭配
+- unveils suite of：推出了一系列/一套
+  用法：常用于科技新闻报道新产品或新服务的发布。
+- run in-house：在内部运行
+  用法：指在企业内部服务器或本地环境中运行软件，而非依赖云端。
+
+语法拆解
+- that chipmakers can run in-house：suite of AI models that chipmakers can run in-house
+  这是一个定语从句，修饰先行词 AI models，说明这些模型的运行方式。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSXZrWlJVYTllelhNczNoX2dHZ2pQYk1FTUZtLVNPYUdZUEdEVElSZGpLR0QzWTJZS25DOUNHdXdvakRCcHBLVmxKbFBwVmNXWUhtZllwZ2p5ZzdjdnBUb3ZkOWRmT3VzbUNLQ09YRVVJQk5WSWtncHVkRjZUWlJYbDJ2TzRFM0hEM1YtOHd0c05XaW1GRFJhMU1aZEpzOVJZaU5UQTZCMi1EMExhNnRKRmRmR2gyaGZq?oc=5
