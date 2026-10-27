@@ -1,0 +1,31 @@
+英伟达支持了一家印度初创公司，该公司旨在帮助企业以更少的 GPU 运行人工智能模型
+Nvidia backs Indian startup helping companies run AI models with fewer GPUs
+来源：TechCrunch AI · 2026-10-27T11:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus
+
+==========================================================
+第 01 段
+
+[English]
+Nvidia backs Indian startup helping companies run AI models with fewer GPUs. Simplismart says its annualized revenue run rate has grown 14-fold in six months,
+
+[中文]
+英伟达支持了一家印度初创公司，该公司旨在帮助企业以更少的 GPU 运行人工智能模型。Simplismart 表示，其年化收入运行率在六个月内增长了 14 倍。
+
+重点短语与搭配
+- annualized revenue run rate：年化收入运行率
+  用法：用于衡量初创公司基于近期业绩推算的年度收入潜力。
+- grown 14-fold：增长了 14 倍
+  用法：用于描述数量或规模的倍数增长。
+
+语法拆解
+- helping companies run AI models：helping companies run AI models
+  动词 help 后接宾语加动词原形（省略 to），表示帮助某人做某事。
+- has grown 14-fold：has grown 14-fold
+  现在完成时态，表示从过去某个时间点持续到现在的增长状态。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus
