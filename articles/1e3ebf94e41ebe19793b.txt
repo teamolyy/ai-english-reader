@@ -1,0 +1,29 @@
+Retell 使用 OpenAI 模型来助力每月 1 亿次通话
+Retell uses OpenAI models to help power 100M monthly calls
+来源：OpenAI News · 2026-10-27T15:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/retell-ai
+
+==========================================================
+第 01 段
+
+[English]
+Retell uses OpenAI models to help power 100M monthly calls. GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1.6M annual
+
+[中文]
+Retell 使用 OpenAI 模型来助力每月 1 亿次通话。GPT-6 Astra 在 Retell 的语音代理基准测试中名列前茅，而 Codex 则帮助其达到 160 万美元的年收入。
+
+重点短语与搭配
+- tops：位居……之首；名列前茅
+  用法：在排名或榜单中占据第一的位置。
+- voice agent benchmark：语音代理基准测试
+  用法：用于评估人工智能语音助手性能的标准测试。
+
+语法拆解
+- while：while Codex helps it reach
+  在此处表示对比或转折，连接两个并列的动作或事实。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/retell-ai
