@@ -1,0 +1,27 @@
+Cohere 称阿里巴巴的 Qwen 模型试图向北京发送文件。
+Cohere says Alibaba’s Qwen model tried to send a file to Beijing
+来源：TechCrunch AI · 2026-10-27T01:12:21+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing
+
+==========================================================
+第 01 段
+
+[English]
+Cohere says Alibaba’s Qwen model tried to send a file to Beijing. An AI model said it wouldn’t use any tools, then tried to send
+
+[中文]
+Cohere 称阿里巴巴的 Qwen 模型试图向北京发送文件。一个人工智能模型声称它不会使用任何工具，随后却试图发送。
+
+重点短语与搭配
+- wouldn’t use any tools：不会使用任何工具
+  用法：用于表达拒绝或承诺不执行某项特定行为。
+
+语法拆解
+- then tried to：then tried to send
+  用于连接两个动作，强调第二个动作是在第一个动作之后发生的，通常带有转折或对比的意味。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/26/cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing
