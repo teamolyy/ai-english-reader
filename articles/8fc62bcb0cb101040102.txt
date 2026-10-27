@@ -1,0 +1,29 @@
+谷歌的下一代 Genie AI 模型生成了更逼真的体验
+Google’s next Genie AI model generates more realistic experiences
+来源：The Verge AI · 2026-10-27T15:07:35+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/tech/1019076/google-genie-4-ai-model
+
+==========================================================
+第 01 段
+
+[English]
+Google’s next Genie AI model generates more realistic experiences. Google announced today its Genie 4 world model for generating interactive experiences using AI. The company
+
+[中文]
+谷歌的下一代 Genie AI 模型生成了更逼真的体验。谷歌今天宣布了其用于利用人工智能生成交互式体验的 Genie 4 世界模型。该公司
+
+重点短语与搭配
+- world model：世界模型
+  用法：人工智能领域术语，指能够理解并模拟物理世界规律的AI模型。
+- interactive experiences：交互式体验
+  用法：指用户可以参与并与内容进行互动的体验，常用于游戏或模拟软件。
+
+语法拆解
+- for generating：for generating interactive experiences
+  介词 for 加上动名词形式，表示用途或目的。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/tech/1019076/google-genie-4-ai-model

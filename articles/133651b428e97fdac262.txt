@@ -1,0 +1,29 @@
+Google 的 Genie 4 世界模型增加了音频、更逼真的世界以及实时操控功能。
+Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering
+来源：TechCrunch AI · 2026-10-27T16:30:57+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering
+
+==========================================================
+第 01 段
+
+[English]
+Google’s Genie 4 world model adds audio, more realistic worlds, and real-time steering. Genie 4 can maintain a consistent scene for up to two minutes,
+
+[中文]
+Google 的 Genie 4 世界模型增加了音频、更逼真的世界以及实时操控功能。Genie 4 最长可以保持两分钟的场景一致性。
+
+重点短语与搭配
+- consistent scene：一致的场景
+  用法：描述生成式 AI 在长时间内保持画面或逻辑连贯性。
+- up to：长达/多达
+  用法：用于表示数量或时间的上限。
+
+语法拆解
+- can maintain... for up to...：Genie 4 can maintain a consistent scene for up to two minutes
+  用于描述某项功能在特定时间限制内持续运作的能力。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering

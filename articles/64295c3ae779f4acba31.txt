@@ -1,0 +1,27 @@
+前沿人工智能实验室称其模型推翻了指数时间假设。这意味着什么？
+Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?
+来源：TechCrunch AI · 2026-10-27T17:08:08+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean
+
+==========================================================
+第 01 段
+
+[English]
+Frontier AI labs say their models refuted the Exponential Time Hypothesis. What does that mean?. TechCrunch spoke to the MIT computer scientist charged with explaining
+
+[中文]
+前沿人工智能实验室称其模型推翻了指数时间假设。这意味着什么？TechCrunch 采访了负责解释这一点的麻省理工学院计算机科学家。
+
+重点短语与搭配
+- charged with：负责；被委派
+  用法：指被赋予某项任务或职责。
+
+语法拆解
+- the [noun] charged with [verb-ing]：the MIT computer scientist charged with explaining
+  此处使用过去分词短语作后置定语，修饰前面的名词，表示“被委派做某事的人”。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean

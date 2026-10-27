@@ -1,0 +1,27 @@
+DeepSeek AI 模型在独立测试中显示出安全漏洞
+DeepSeek AI model shows safety gaps in independent tests
+来源：Reuters · 2026-10-27T10:51:37+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+DeepSeek AI model shows safety gaps in independent tests. DeepSeek AI model shows safety gaps in independent tests Reuters
+
+[中文]
+DeepSeek AI 模型在独立测试中显示出安全漏洞。DeepSeek AI 模型在独立测试中显示出安全漏洞 路透社
+
+重点短语与搭配
+- DeepSeek AI model：DeepSeek人工智能模型
+  用法：用于指代特定的AI技术产品。
+- safety gaps：安全漏洞/安全缺口
+  用法：常用于描述系统或协议中存在的安全隐患。
+- independent tests：独立测试
+  用法：指由第三方机构进行的非关联性测试。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMiowFBVV95cUxNZ2VtNkRpTEd1M2w3YzYwUE9XV1BYblFJODQxWnhPVngzX2NHNkZjZV9fcTZwVWZpeWVYa3hmQ1hnbjR1M2p6b0FId28xR0xFaF9oLUQ5RU1fd0NXVDV1UTJPeERPZTU0UHkxbEtDNkRSdEFDVk9wazVKZjhsT1dNTTVNYTJOb19nVEdscGltelV1d1pRMjRLeXBvQUpVaHg3N0ow?oc=5
