@@ -1,0 +1,29 @@
+谷歌发布专注于网络安全的 Gemini 4 Carbon AI 模型
+Google launches Gemini 4 Carbon AI model with cybersecurity focus
+来源：Reuters · 2026-10-28T18:12:49+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Google launches Gemini 4 Carbon AI model with cybersecurity focus. Google launches Gemini 4 Carbon AI model with cybersecurity focus Reuters
+
+[中文]
+谷歌发布专注于网络安全的 Gemini 4 Carbon AI 模型。路透社报道，谷歌发布专注于网络安全的 Gemini 4 Carbon AI 模型
+
+重点短语与搭配
+- launches：发布，推出
+  用法：常用于科技公司发布新产品或服务。
+- cybersecurity focus：网络安全重点
+  用法：用于描述产品或策略的核心关注领域。
+
+语法拆解
+- with [noun phrase] focus：with cybersecurity focus
+  用介词短语表示某事物所侧重的领域或特性。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXQyWUp5N0QwdVRZWXFkd1M5b2RrcExtNVBJS0JKaDdhaG1DQThXeEVlUWVWQUNPTjNOak9ZSnZlQjhDUkNIT2oxSlJrSjlJSkVSMVZFMW5acXV1N0l5bWxKTU1CNmtzZVM3U2dZVE5RbHlrZ2k5LTljM2FnNDVLM3NFbGI4N1hSMVIyQ2FNZXZYY0ZuNV9KR0lQYzdxT2RGdzkxamkzLXloVUVmLUhmdUZ3?oc=5

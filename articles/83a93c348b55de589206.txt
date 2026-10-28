@@ -1,0 +1,29 @@
+语音人工智能正流行：英伟达发布全新开源转录模型
+Voice AI in vogue: Nvidia releases new open transcription model
+来源：TechCrunch AI · 2026-10-28T15:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model
+
+==========================================================
+第 01 段
+
+[English]
+Voice AI in vogue: Nvidia releases new open transcription model. Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but
+
+[中文]
+语音人工智能正流行：英伟达发布全新开源转录模型。英伟达刚刚发布了一款免费的语音转文字模型，可以转录多达 40 种语言，但是
+
+重点短语与搭配
+- speech-to-text：语音转文字
+  用法：常用于描述将口语转换为书面文本的技术或模型。
+- up to：多达，高达
+  用法：用于表示数量或程度的上限。
+
+语法拆解
+- that can transcribe：a free speech-to-text model that can transcribe up to 40 languages
+  这是一个定语从句，用 that 引导，修饰先行词 model，说明该模型的功能。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model

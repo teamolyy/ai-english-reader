@@ -1,0 +1,27 @@
+谷歌发布了 Gemini 4 Carbon，这是其最新的前沿人工智能模型，但你无法使用
+Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use
+来源：Ars Technica · 2026-10-28T18:47:27+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW1ZYWNNNHRHU1pTM1FqNGIxajFURmFRZGlxM3BLaXNWWkl5Vl9lcUtMTmp3SEd4XzEyT1JUZHlzdjNvNWNDbE9NYk9VdUMzUkY2ZHVNalEtVWl4ckFwaTlsWFhjbTRDZURBdktRRGZpWGdheHVlZHlJYUNoS1YxcFphU2JVSFhBZkVZREo1R18yTWYwM0xnU1AzNllLYWZCLWZjNFMteDg2eEd2RXNTSVJ2ZmNsQQ?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Google announces Gemini 4 Carbon, its latest frontier AI model that you can’t use. Google announces Gemini 4 Carbon, its latest frontier AI model that
+
+[中文]
+谷歌发布了 Gemini 4 Carbon，这是其最新的前沿人工智能模型，但你无法使用。谷歌发布了 Gemini 4 Carbon，这是其最新的前沿人工智能模型
+
+重点短语与搭配
+- frontier AI model：前沿人工智能模型
+  用法：用于描述处于行业领先地位的尖端技术产品。
+
+语法拆解
+- that you can’t use：its latest frontier AI model that you can’t use
+  关系代词 that 引导的定语从句，用于限定先行词，强调该模型的使用限制。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMitgFBVV95cUxPRW1ZYWNNNHRHU1pTM1FqNGIxajFURmFRZGlxM3BLaXNWWkl5Vl9lcUtMTmp3SEd4XzEyT1JUZHlzdjNvNWNDbE9NYk9VdUMzUkY2ZHVNalEtVWl4ckFwaTlsWFhjbTRDZURBdktRRGZpWGdheHVlZHlJYUNoS1YxcFphU2JVSFhBZkVZREo1R18yTWYwM0xnU1AzNllLYWZCLWZjNFMteDg2eEd2RXNTSVJ2ZmNsQQ?oc=5

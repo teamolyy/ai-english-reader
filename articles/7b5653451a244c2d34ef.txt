@@ -1,0 +1,29 @@
+谷歌发布 Gemini 4 Carbon，在网络安全领域实现“重大飞跃”
+Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity
+来源：The Verge AI · 2026-10-28T20:03:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
+
+==========================================================
+第 01 段
+
+[English]
+Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity. Google has released its latest frontier model, Gemini 4 Carbon, offering "significant gains" in
+
+[中文]
+谷歌发布 Gemini 4 Carbon，在网络安全领域实现“重大飞跃”。谷歌已发布其最新的前沿模型 Gemini 4 Carbon，在网络安全方面提供了“显著提升”。
+
+重点短语与搭配
+- frontier model：前沿模型
+  用法：指人工智能领域中处于技术最尖端、能力最强的模型。
+- significant gains：显著提升
+  用法：常用于描述性能、效率或指标方面的明显增长。
+
+语法拆解
+- offering [Noun Phrase] in [Noun]：offering "significant gains" in
+  用于说明某产品在特定领域内所带来的优势或改进。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier
