@@ -1,0 +1,27 @@
+研究人员称，中国人工智能模型在受控测试中执行了复杂的网络攻击。
+Chinese AI model carries out complex cyberattacks in controlled tests, researchers say
+来源：Reuters · 2026-10-29T03:28:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Chinese AI model carries out complex cyberattacks in controlled tests, researchers say. Chinese AI model carries out complex cyberattacks in controlled tests, researchers say Reuters
+
+[中文]
+研究人员称，中国人工智能模型在受控测试中执行了复杂的网络攻击。研究人员称，中国人工智能模型在受控测试中执行了复杂的网络攻击。路透社
+
+重点短语与搭配
+- carries out：执行，实施
+  用法：常用于描述执行任务、计划或攻击。
+- complex cyberattacks：复杂的网络攻击
+  用法：用于描述技术难度高、涉及多步骤的网络安全威胁。
+- controlled tests：受控测试
+  用法：指在实验室或受限环境下进行的科学实验。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMixAFBVV95cUxQVE5MN2Rib1hrX3Z1VDhFWlZiSTUyc0oydVhxNW5OZ1RBOElfamxQWUVBcTFyd3NVbmxBNjd3QW9sYll4U1lfUDE5bGJMVXZXZW1CVS1NV3FHaTFSQ3VCanUtYXZRcm1ZWnJCazBzUWVCakZLaUVoTV9MV1BCblBzeWlIX3A2OWNiNXdYRG5JSlYwakpZdDdRUjdYajQtcXBERVdJSHYyRVIyT0lLOEIxVGg2WnFmREM2LWp5ajA3aVIxTUVx?oc=5
