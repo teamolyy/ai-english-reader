@@ -1,0 +1,29 @@
+微软推出全新的 MAI 系列人工智能模型，用于推理、语音、编码和图像处理。
+Microsoft launches new MAI family of AI models for reasoning, voice, coding, and images
+来源：Mashable · 2026-10-28T21:30:20+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhvOFFMdzREZTdVcXgtRldpaFlLZENNMEF3dF9wQnF3UWtfRmN3MWt0a2VEVXY1cmJwQTc4dlk0d0hmTHU3bExNTTdkSldJR21ES0l4VnlCT2xERUJGMS0tNFZpMzNBeDJVRW9kc1lBekM1YWZzZjc3VXBMRDJObjdDdXY?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Microsoft launches new MAI family of AI models for reasoning, voice, coding, and images. Microsoft launches new MAI family of AI models for reasoning, voice,
+
+[中文]
+微软推出全新的 MAI 系列人工智能模型，用于推理、语音、编码和图像处理。微软推出全新的 MAI 系列人工智能模型，用于推理和语音。
+
+重点短语与搭配
+- launches new：推出新的
+  用法：常用于新闻报道中描述公司发布新产品或服务。
+- AI models：人工智能模型
+  用法：科技领域常用术语，指代机器学习算法构建的系统。
+
+语法拆解
+- family of [noun]：family of AI models
+  用于指代一组具有共同特征或来源的相关产品或事物。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMihAFBVV95cUxNQzhvOFFMdzREZTdVcXgtRldpaFlLZENNMEF3dF9wQnF3UWtfRmN3MWt0a2VEVXY1cmJwQTc4dlk0d0hmTHU3bExNTTdkSldJR21ES0l4VnlCT2xERUJGMS0tNFZpMzNBeDJVRW9kc1lBekM1YWZzZjc3VXBMRDJObjdDdXY?oc=5
