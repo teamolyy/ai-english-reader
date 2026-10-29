@@ -1,0 +1,29 @@
+Mistral 的 Le Chonk 现在是顶尖的开源编码模型，与 Codex GPT-6.1 Terra 并驾齐驱。
+Mistral's Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra
+来源：ZDNET · 2026-10-29T23:01:54+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Mistral's Le Chonk is now a top open model for coding, ranking alongside Codex GPT-6.1 Terra. Mistral's Le Chonk is now a top open model
+
+[中文]
+Mistral 的 Le Chonk 现在是顶尖的开源编码模型，与 Codex GPT-6.1 Terra 并驾齐驱。Mistral 的 Le Chonk 现在是顶尖的开源编码模型。
+
+重点短语与搭配
+- top open model：顶尖的开源模型
+  用法：用于描述在特定领域表现优异且代码/权重公开的模型。
+- ranking alongside：与……并列/并驾齐驱
+  用法：用于比较两个事物在排名或地位上的对等性。
+
+语法拆解
+- ranking alongside [Noun]：ranking alongside Codex GPT-6.1 Terra
+  使用现在分词短语作状语，表示伴随状态或结果，说明主语在排名上的位置。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMic0FVX3lxTE1oUDdGckVKYzJobVpZMk5HeFFpX1Z5U0FRQnRoQTJfeEZXaHRCRHVwLUluQWNJSDVKcHI5VFhPR3NvSDdvbUNhZ2JUbGN1SjVmeGltaVVDMTc2ODVnU1dGbXVUMGFCLWVKbVhIOExJZllTZnM?oc=5
