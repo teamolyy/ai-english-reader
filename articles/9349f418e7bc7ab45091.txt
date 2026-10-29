@@ -1,0 +1,27 @@
+一份旨在实现更强大、更有益 AI 的更新版模型规范
+An updated Model Spec for more capable and beneficial AI
+来源：OpenAI News · 2026-10-29T17:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/updated-model-spec
+
+==========================================================
+第 01 段
+
+[English]
+An updated Model Spec for more capable and beneficial AI. OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound
+
+[中文]
+一份旨在实现更强大、更有益 AI 的更新版模型规范。OpenAI 更新后的模型规范概述了五项核心价值观，旨在引导更强大的 AI 朝着稳健的方向发展
+
+重点短语与搭配
+- core values：核心价值观
+  用法：用于描述组织或系统遵循的基本原则。
+
+语法拆解
+- guide [object] toward [noun/gerund]：guide more capable AI toward sound
+  使用 guide 引导某物向特定方向发展，强调过程的导向性。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/updated-model-spec

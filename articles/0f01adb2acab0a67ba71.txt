@@ -1,0 +1,31 @@
+我们如何检测前沿模型的不对齐
+How we detect frontier model misalignment
+来源：OpenAI News · 2026-10-29T09:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/how-we-detect-frontier-model-misalignment
+
+==========================================================
+第 01 段
+
+[English]
+How we detect frontier model misalignment. OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents
+
+[中文]
+我们如何检测前沿模型的不对齐。OpenAI 使用分层监控来检测前沿模型的不对齐和未经授权的代理行为，以便响应者能够在事件发生前进行干预。
+
+重点短语与搭配
+- layered monitoring：分层监控
+  用法：指通过多个层级或维度进行系统性的监测。
+- unauthorized agent behavior：未经授权的代理行为
+  用法：指AI代理在未获得许可的情况下执行的操作。
+
+语法拆解
+- so [subject] can [verb]：so responders can intervene
+  用于表示目的，意为“以便……能够……”。
+- before [noun/event]：before incidents
+  介词短语，表示在某事发生之前。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/how-we-detect-frontier-model-misalignment

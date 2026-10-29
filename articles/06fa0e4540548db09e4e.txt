@@ -1,0 +1,29 @@
+前 Palantir 高管获得 a16z 1700 万美元投资，创办 Dream，旨在构建用于建筑行业的 AI 世界模型。
+Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction
+来源：TechCrunch AI · 2026-10-29T16:21:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction
+
+==========================================================
+第 01 段
+
+[English]
+Ex-Palantir execs launch Dream with $17M from a16z to build AI world models for construction. Dream is grounded in real physics and construction standards. Just
+
+[中文]
+前 Palantir 高管获得 a16z 1700 万美元投资，创办 Dream，旨在构建用于建筑行业的 AI 世界模型。Dream 基于真实物理定律和建筑标准。仅仅
+
+重点短语与搭配
+- grounded in：基于；立足于
+  用法：用于说明某事物的基础或依据。
+- real physics：真实物理定律
+  用法：指代符合现实世界物理规则的模拟或计算。
+
+语法拆解
+- be grounded in [Noun]：Dream is grounded in real physics
+  被动语态结构，表示某事物有坚实的理论或现实基础。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/10/29/ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-construction
