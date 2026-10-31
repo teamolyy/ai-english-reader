@@ -1,0 +1,31 @@
+在供应商更换大语言模型之前，协商好 AI 智能体模型置换条款
+Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM
+来源：Startup Fortune · 2026-10-31T05:02:43+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9mY01Qd3BCSEVOWTBnNnp0c1lLTVFCZk1XcktjYllCdG8yNElRQWFHV3Fic29CWGRjQkEwdHAtRWJldjlfd0xUS3U3RVJkQTBlZV9Gbkh3WUZmOHRmZ0ZWRnNIUVBwMGxZdzFpbko4aEZuNS1NZkxoOWRjNGRsLTltTXNJdXN3dnd4ZDZ2bTYyLU1IZkJMV0dnVGNxdnBOXzlyRnZ3?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the LLM. Negotiate an AI Agent Model Swap Clause Before Your Vendor Switches the
+
+[中文]
+在供应商更换大语言模型之前，协商好 AI 智能体模型置换条款。在供应商更换大语言模型之前，协商好 AI 智能体模型置换条款
+
+重点短语与搭配
+- AI Agent：人工智能智能体
+  用法：指能够自主执行任务的 AI 系统。
+- Model Swap Clause：模型置换条款
+  用法：法律或合同术语，指允许在合同期内更换底层 AI 模型的条款。
+- LLM：大语言模型
+  用法：Large Language Model 的缩写，指如 GPT-4 等大型人工智能模型。
+
+语法拆解
+- Before + [Subject] + [Verb]：Before Your Vendor Switches the LLM
+  使用 before 引导时间状语从句，表示在某动作发生之前。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMipgFBVV95cUxPal9mY01Qd3BCSEVOWTBnNnp0c1lLTVFCZk1XcktjYllCdG8yNElRQWFHV3Fic29CWGRjQkEwdHAtRWJldjlfd0xUS3U3RVJkQTBlZV9Gbkh3WUZmOHRmZ0ZWRnNIUVBwMGxZdzFpbko4aEZuNS1NZkxoOWRjNGRsLTltTXNJdXN3dnd4ZDZ2bTYyLU1IZkJMV0dnVGNxdnBOXzlyRnZ3?oc=5
