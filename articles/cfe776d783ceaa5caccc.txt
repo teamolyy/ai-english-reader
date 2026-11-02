@@ -1,0 +1,29 @@
+42AI 结束隐身状态，获得 6250 万美元融资，并发布了一个能够“预测人类行为”的世界模型。
+42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’
+来源：TechCrunch AI · 2026-11-02T16:30:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior
+
+==========================================================
+第 01 段
+
+[English]
+42AI comes out of stealth with $62.5M and a world model that can ‘predict human behavior’. Here's a question straight out of sci-fi: What if
+
+[中文]
+42AI 结束隐身状态，获得 6250 万美元融资，并发布了一个能够“预测人类行为”的世界模型。这是一个直接出自科幻小说的疑问：如果……会怎样？
+
+重点短语与搭配
+- straight out of sci-fi：直接出自科幻小说
+  用法：形容某事物看起来非常超前或不可思议，仿佛来自科幻作品。
+- What if：如果……会怎样？
+  用法：用于提出假设性问题，探讨某种可能性或后果。
+
+语法拆解
+- What if [clause]?：What if
+  引导假设性疑问句，探讨某种情况发生后的结果。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/02/42ai-comes-out-of-stealth-with-62-5m-and-a-world-model-that-can-predict-human-behavior
