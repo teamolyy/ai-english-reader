@@ -1,0 +1,29 @@
+Trajectory 筹集了 4500 万美元，旨在让非技术专家也能进行 AI 模型训练
+Trajectory raises $45M to make AI model training accessible to nontechnical experts
+来源：TechCrunch AI · 2026-11-02T23:13:53+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts
+
+==========================================================
+第 01 段
+
+[English]
+Trajectory raises $45M to make AI model training accessible to nontechnical experts. The one-year-old startup is now valued at $300 million.
+
+[中文]
+Trajectory 筹集了 4500 万美元，旨在让非技术专家也能进行 AI 模型训练。这家成立仅一年的初创公司目前估值已达 3 亿美元。
+
+重点短语与搭配
+- one-year-old startup：成立一年的初创公司
+  用法：描述公司年龄的常用表达方式。
+- valued at：估值为
+  用法：用于说明公司在市场上的估值金额。
+
+语法拆解
+- is now valued at：is now valued at $300 million
+  被动语态结构，用于陈述当前的市场估值。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts
