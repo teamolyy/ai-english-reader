@@ -1,0 +1,31 @@
+Anthropic 正在开发一套系统，旨在验证 AI 模型的身份。
+Anthropic is working on a system to prove AI models’ identity
+来源：TechCrunch AI · 2026-11-03T22:41:03+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic is working on a system to prove AI models’ identity. Called FlashProve, the system would let anyone check that an AI response really came
+
+[中文]
+Anthropic 正在开发一套系统，旨在验证 AI 模型的身份。该系统名为 FlashProve，将允许任何人核实 AI 的回复是否确实来自（该模型）。
+
+重点短语与搭配
+- Called FlashProve：名为 FlashProve
+  用法：用于引出专有名词或命名。
+- let anyone check：让任何人能够核实
+  用法：表示赋予某人执行某项操作的权限或能力。
+
+语法拆解
+- Called [Name], the system would...：Called FlashProve, the system would let anyone check
+  过去分词短语作状语，置于句首，对主语 the system 进行补充说明。
+- let + object + [verb]：let anyone check
+  let 后接宾语，再接动词原形，表示允许某人做某事。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity
