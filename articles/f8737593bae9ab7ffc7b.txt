@@ -1,0 +1,29 @@
+腾讯宣布其最新人工智能模型跻身中国顶尖行列
+Tencent Declares Latest AI Model Ranks Among China’s Best
+来源：Bloomberg.com · 2026-11-04T06:19:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDhGOEtSczV1bVRuMGFNX0cyZ20zMVI3ZWc2MnNSUWFWNkJ1Z2NheVZ6MmJ0Z0NJUVFjNXB6bXBvV1lqUzBWZTNFNENOeXhqTXBVQUhYQ05TbHNmcml0TlBjZUw2WUxVSUJPSEc5aFFTY0ZRT2tfUHlnR0dVTzUwQ1c1bHN3aTA1ZmV3YkVqMnh3QVZKaFlPdE8wbGR5TEh3RkVfeXZyWUlQUGhy?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Tencent Declares Latest AI Model Ranks Among China’s Best. Tencent Declares Latest AI Model Ranks Among China’s Best Bloomberg.com
+
+[中文]
+腾讯宣布其最新人工智能模型跻身中国顶尖行列。腾讯宣布其最新人工智能模型跻身中国顶尖行列 Bloomberg.com
+
+重点短语与搭配
+- ranks among：跻身于……之列
+  用法：用于描述某事物在某个群体或领域中的地位或排名。
+- China’s Best：中国顶尖的
+  用法：常用于形容在某一领域处于领先地位的实体或产品。
+
+语法拆解
+- Subject + Verb + Object (Clause)：Tencent Declares Latest AI Model Ranks Among China’s Best
+  此处 declares 后接宾语从句，从句中省略了引导词 that，这是新闻标题中常见的简洁写法。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxQRDhGOEtSczV1bVRuMGFNX0cyZ20zMVI3ZWc2MnNSUWFWNkJ1Z2NheVZ6MmJ0Z0NJUVFjNXB6bXBvV1lqUzBWZTNFNENOeXhqTXBVQUhYQ05TbHNmcml0TlBjZUw2WUxVSUJPSEc5aFFTY0ZRT2tfUHlnR0dVTzUwQ1c1bHN3aTA1ZmV3YkVqMnh3QVZKaFlPdE8wbGR5TEh3RkVfeXZyWUlQUGhy?oc=5

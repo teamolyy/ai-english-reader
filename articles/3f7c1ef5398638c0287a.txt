@@ -1,0 +1,29 @@
+一款名为 Crouton Alpha 的免费隐形 AI 模型刚刚追平了 Gemini 的上下文窗口。
+A free stealth AI model called Crouton Alpha just matched Gemini's context window
+来源：Startup Fortune · 2026-11-04T10:12:48+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxORW5CWEVkMkhIVnp3LTVCSlgwcm5VRnRJVFdqcUVTTURuQ3c2NGJoNUlqYlVuUzJuXzJSaHdpcWNJZmRfelZHWmdCcmN1N0RmVXVpRDFaNnkydG41OFVmd1NNVjB3c1VoRXN3bGozNWhEb1NTbGhINDE3SDZSOUprZ1NwT2p2U3BOTGtpeGdLVFVVOVl2Q19tMWJ5Q3o4d3BMTnBzTVdXNWFBc25a?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+A free stealth AI model called Crouton Alpha just matched Gemini's context window. A free stealth AI model called Crouton Alpha just matched Gemini's context
+
+[中文]
+一款名为 Crouton Alpha 的免费隐形 AI 模型刚刚追平了 Gemini 的上下文窗口。一款名为 Crouton Alpha 的免费隐形 AI 模型刚刚追平了 Gemini 的上下文。
+
+重点短语与搭配
+- stealth AI model：隐形/低调发布的 AI 模型
+  用法：指在未大肆宣传或未公开详细技术细节的情况下发布的 AI 模型。
+- context window：上下文窗口
+  用法：AI 领域术语，指模型一次性能够处理的输入信息量。
+
+语法拆解
+- just matched：just matched Gemini's context
+  使用 just 表示动作刚刚完成，强调时效性。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMirAFBVV95cUxORW5CWEVkMkhIVnp3LTVCSlgwcm5VRnRJVFdqcUVTTURuQ3c2NGJoNUlqYlVuUzJuXzJSaHdpcWNJZmRfelZHWmdCcmN1N0RmVXVpRDFaNnkydG41OFVmd1NNVjB3c1VoRXN3bGozNWhEb1NTbGhINDE3SDZSOUprZ1NwT2p2U3BOTGtpeGdLVFVVOVl2Q19tMWJ5Q3o4d3BMTnBzTVdXNWFBc25a?oc=5
