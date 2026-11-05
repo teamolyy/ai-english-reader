@@ -1,0 +1,29 @@
+OpenAI 表示其新的网络安全模型在不攻击其他公司方面表现更好
+OpenAI says its new cybersecurity model is better at not hacking other companies
+来源：The Verge AI · 2026-11-05T17:10:19+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI says its new cybersecurity model is better at not hacking other companies. OpenAI is launching GPT-6 Cyber, the latest version of its cybersecurity AI
+
+[中文]
+OpenAI 表示其新的网络安全模型在不攻击其他公司方面表现更好。OpenAI 正在推出其网络安全 AI 的最新版本 GPT-6 Cyber
+
+重点短语与搭配
+- launching：推出，发布
+  用法：常用于指代新产品、服务或软件的正式发布。
+- latest version：最新版本
+  用法：用于指代软件或技术迭代中的最新成果。
+
+语法拆解
+- the latest version of its...：the latest version of its cybersecurity AI
+  定冠词加最高级形容词，用于明确指出某系列中的最新迭代。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1027599/openai-gpt-6-cyber-launch

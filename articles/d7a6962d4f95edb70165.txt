@@ -1,0 +1,29 @@
+为什么 AI 模型选择现在是一项基础设施决策
+Why AI model choice is now an infrastructure decision
+来源：VentureBeat · 2026-11-05T15:30:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlBkejU5cDhtNDVEYW01Smw3UEs0LXZjZ3NaRFBYSFhFV1NMYUVGcVdmSnFqNk1aME9tejNzcHR1ZVl4Qm5Fd3pObU5Ra2c4MXR1LTkwZWpEcThESFJBWGtDT0pRanU2ZVhGY1BobGUwOVhQT3J1X1BCVWVrMDVvM2dJUjRWNVc4dEswSjN0N09YZXhGalJB?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Why AI model choice is now an infrastructure decision. Why AI model choice is now an infrastructure decision VentureBeat
+
+[中文]
+为什么 AI 模型选择现在是一项基础设施决策。为什么 AI 模型选择现在是一项基础设施决策 VentureBeat
+
+重点短语与搭配
+- infrastructure decision：基础设施决策
+  用法：指将某项技术或选择视为企业底层架构的一部分，而非简单的软件应用选择。
+- AI model choice：AI 模型选择
+  用法：在讨论人工智能技术栈时，指代企业决定采用哪种大模型（如 GPT-4, Claude 等）。
+
+语法拆解
+- Why [Subject] is now [Noun Phrase]：Why AI model choice is now an infrastructure decision
+  这是一个典型的标题句式，用于引出对某种现象转变原因的深度分析。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMilwFBVV95cUxQSlBkejU5cDhtNDVEYW01Smw3UEs0LXZjZ3NaRFBYSFhFV1NMYUVGcVdmSnFqNk1aME9tejNzcHR1ZVl4Qm5Fd3pObU5Ra2c4MXR1LTkwZWpEcThESFJBWGtDT0pRanU2ZVhGY1BobGUwOVhQT3J1X1BCVWVrMDVvM2dJUjRWNVc4dEswSjN0N09YZXhGalJB?oc=5

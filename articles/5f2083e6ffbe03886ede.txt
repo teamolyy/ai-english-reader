@@ -1,0 +1,29 @@
+OpenAI 发布了一款新的网络安全模型。这足够了吗？
+OpenAI released a new cybersecurity model. Is that enough?
+来源：TechCrunch AI · 2026-11-05T19:06:12+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI released a new cybersecurity model. Is that enough?. OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect
+
+[中文]
+OpenAI 发布了一款新的网络安全模型。这足够了吗？。OpenAI 最新的网络安全模型发布之际，正值人工智能实验室因其保护工作而面临审查。
+
+重点短语与搭配
+- face scrutiny：面临审查/受到审视
+  用法：常用于描述机构或个人因某项行为受到公众、监管机构或媒体的严格监督。
+- comes out as：在……之际发布
+  用法：用于描述某事发生的时间点恰逢某种背景情况。
+
+语法拆解
+- as + clause：as AI labs face scrutiny
+  这里的 as 表示“当……的时候”或“随着”，用于连接两个同时发生的事件或背景。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough
