@@ -1,0 +1,27 @@
+Underdog 在新演示中展示了一个 32MB 的语音模型
+Underdog shows off a 32MB speech model in new demo
+来源：TechCrunch AI · 2026-11-06T13:02:16+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo
+
+==========================================================
+第 01 段
+
+[English]
+Underdog shows off a 32MB speech model in new demo. Despite its small size, Underdog's new model can generate both speech and music.
+
+[中文]
+Underdog 在新演示中展示了一个 32MB 的语音模型。尽管体积小巧，Underdog 的新模型既能生成语音也能生成音乐。
+
+重点短语与搭配
+- Despite its small size：尽管体积小巧
+  用法：用于引出转折，强调某事物在规模较小的情况下仍具备强大功能。
+
+语法拆解
+- Despite + [noun phrase]：Despite its small size
+  Despite 后接名词短语表示让步，意为“尽管”，比 although 引导从句更简洁。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/06/underdog-shows-off-a-32mb-speech-model-in-new-demo
