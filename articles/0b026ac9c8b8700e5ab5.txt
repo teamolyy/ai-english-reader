@@ -1,0 +1,27 @@
+OpenAI 发布了 GPT-6 Cyber，其漏洞研究能力更强，API 价格也高于 Anthropic 和 Google。
+OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google
+来源：VentureBeat · 2026-11-06T00:32:24+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTB2WEJJVjRiTUJBZmRvTHd1dkphUWRJRmJBcXlzZDNicWhqZWQxUkNMQ3E0TV9DNllQWHNZTFo5QWNiNTM5NEtOdUFjdDMtb3FDZ3FhTnpGS1liWnVPVTFWdjhuWkM3MExXTnVjMTZ1Umw5U3BRTHoycHdaNUNNNXlJS2o2MVBfNHBlQWRFV2IzbVRLZ3lIRGZiSzRwWmJhbUxKLVlMb3M0cGcwSEdXRHVtcUZHSmQxUFNlSXJKc3FZRThFaEg1aDg5WjJ2R29rbFFHaVZ1MA?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+OpenAI launches GPT-6 Cyber with stronger exploit research and higher API price than Anthropic and Google. OpenAI launches GPT-6 Cyber with stronger exploit research and
+
+[中文]
+OpenAI 发布了 GPT-6 Cyber，其漏洞研究能力更强，API 价格也高于 Anthropic 和 Google。OpenAI 发布了 GPT-6 Cyber，其漏洞研究能力更强，并且
+
+重点短语与搭配
+- exploit research：漏洞研究
+  用法：指在网络安全领域对软件漏洞进行分析和挖掘的研究活动。
+
+语法拆解
+- higher ... than ...：higher API price than Anthropic and Google
+  用于比较级结构，表示某事物在某方面高于另一事物。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMi1wFBVV95cUxQeTB2WEJJVjRiTUJBZmRvTHd1dkphUWRJRmJBcXlzZDNicWhqZWQxUkNMQ3E0TV9DNllQWHNZTFo5QWNiNTM5NEtOdUFjdDMtb3FDZ3FhTnpGS1liWnVPVTFWdjhuWkM3MExXTnVjMTZ1Umw5U3BRTHoycHdaNUNNNXlJS2o2MVBfNHBlQWRFV2IzbVRLZ3lIRGZiSzRwWmJhbUxKLVlMb3M0cGcwSEdXRHVtcUZHSmQxUFNlSXJKc3FZRThFaEg1aDg5WjJ2R29rbFFHaVZ1MA?oc=5
