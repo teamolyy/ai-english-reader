@@ -1,0 +1,29 @@
+Meta 发布了 Muse Ember，这是一款用于智能体执行的全新轻量级模型
+Meta releases Muse Ember, a new lightweight model for agent execution
+来源：TechCrunch AI · 2026-11-09T18:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution
+
+==========================================================
+第 01 段
+
+[English]
+Meta releases Muse Ember, a new lightweight model for agent execution. At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors
+
+[中文]
+Meta 发布了 Muse Ember，这是一款用于智能体执行的全新轻量级模型。Ember 每百万输入 token 的价格仅为 10 美分，比前沿竞争对手便宜得多
+
+重点短语与搭配
+- per million input tokens：每百万输入 token
+  用法：常用于描述大语言模型的计费单位。
+- frontier competitors：前沿竞争对手
+  用法：指在技术领域处于领先地位的竞争对手。
+
+语法拆解
+- At [price], [subject] is [comparative adjective]：At 10 cents per million input tokens, Ember is significantly cheaper
+  用于描述价格或成本，并紧接着进行比较，强调性价比。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution

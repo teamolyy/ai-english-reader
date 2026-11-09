@@ -1,0 +1,27 @@
+Anthropic 在 RSI 担忧中发布了新的 Mythos 和 Fable 模型
+Anthropic releases new Mythos and Fable models amid RSI concerns
+来源：TechCrunch AI · 2026-11-09T19:24:51+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic releases new Mythos and Fable models amid RSI concerns. Anthropic says the new models "show improvements in areas like coding, reasoning, and vision," as
+
+[中文]
+Anthropic 在 RSI 担忧中发布了新的 Mythos 和 Fable 模型。Anthropic 表示，这些新模型“在编码、推理和视觉等领域展现出了进步”，正如
+
+重点短语与搭配
+- show improvements in areas like：在诸如……等领域展现出进步
+  用法：用于正式场合描述产品或技术在特定方面的性能提升。
+
+语法拆解
+- as + [clause]：as
+  此处 as 作为连词引导从句，表示“正如”或“随着”，在句末使用时常用于引出后续的补充说明或背景信息。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns

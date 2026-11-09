@@ -1,0 +1,27 @@
+Anthropic 发布了全新的 Claude Fable 和 Mythos 5.2 模型
+Anthropic launches new Claude Fable and Mythos 5.2 models
+来源：The Verge AI · 2026-11-09T18:58:38+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic launches new Claude Fable and Mythos 5.2 models. Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it
+
+[中文]
+Anthropic 发布了全新的 Claude Fable 和 Mythos 5.2 模型。Anthropic 今天宣布了两款新模型：Claude Fable 5.2 和 Claude Mythos 5.2，它们
+
+重点短语与搭配
+- announcing two new models：宣布两款新模型
+  用法：用于正式场合告知公众新产品的发布。
+
+语法拆解
+- which it：Claude Mythos 5.2, which it
+  此处 which 引导非限制性定语从句，it 指代前文提到的 Anthropic 公司，用于补充说明公司对模型采取的行动。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2
