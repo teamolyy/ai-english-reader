@@ -1,0 +1,25 @@
+控制室：一个用于跟踪并停止我们研究基础设施中模型工作负载的中央系统
+Control Room: A central system to track and stop model workloads across our research infrastructure
+来源：OpenAI News · 2026-11-09T13:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/control-room
+
+==========================================================
+第 01 段
+
+[English]
+Control Room: A central system to track and stop model workloads across our research infrastructure. Learn how OpenAI’s Control Room tracks model workloads across our
+
+[中文]
+控制室：一个用于跟踪并停止我们研究基础设施中模型工作负载的中央系统。了解 OpenAI 的控制室如何跟踪我们研究基础设施中的模型工作负载
+
+重点短语与搭配
+- Learn how：了解如何
+  用法：常用于引导说明性内容，邀请读者学习某项技术或流程。
+- track and stop：跟踪并停止
+  用法：描述对系统任务进行实时监控与干预的操作。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/control-room
