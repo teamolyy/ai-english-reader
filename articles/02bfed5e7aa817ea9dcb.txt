@@ -1,0 +1,29 @@
+Gemini Decisions API：快速、经过校准的多模态决策
+Gemini Decisions API: Fast, calibrated multimodal decisions
+来源：Google AI Blog · 2026-11-11T18:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api
+
+==========================================================
+第 01 段
+
+[English]
+Gemini Decisions API: Fast, calibrated multimodal decisions. Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions.
+
+[中文]
+Gemini Decisions API：快速、经过校准的多模态决策。隆重推出 Gemini Decisions API，它由我们最先进的模型 Gemini Decision 提供支持，旨在实现快速、经过校准的多模态决策。
+
+重点短语与搭配
+- state-of-the-art：最先进的
+  用法：用于形容技术或产品处于行业领先水平。
+- powered by：由……驱动/支持
+  用法：常用于说明某项服务或产品背后的技术支撑。
+
+语法拆解
+- Meet the [Product Name]：Meet the Gemini Decisions API
+  这是一种常见的营销表达方式，用于正式向用户介绍新产品或新功能。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api
