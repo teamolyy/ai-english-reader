@@ -1,0 +1,29 @@
+Google Cloud 推出面向医疗保健行业的 Gemini。
+Google Cloud launches Gemini for healthcare.
+来源：Google AI Blog · 2026-11-10T13:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare
+
+==========================================================
+第 01 段
+
+[English]
+Google Cloud launches Gemini for healthcare..
+
+[中文]
+Google Cloud 推出面向医疗保健行业的 Gemini。。
+
+重点短语与搭配
+- Google Cloud：谷歌云
+  用法：指代谷歌的云计算服务平台。
+- healthcare：医疗保健
+  用法：常用于描述医疗行业或相关服务领域。
+
+语法拆解
+- launches [product] for [target]：launches Gemini for healthcare
+  表示为特定领域或目标群体发布某项产品或服务。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare

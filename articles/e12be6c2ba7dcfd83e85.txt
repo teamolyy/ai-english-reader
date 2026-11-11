@@ -1,0 +1,29 @@
+Anthropic 推出 Claude Meetings，将工作场所的讨论转化为计划和任务
+Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks
+来源：TechCrunch AI · 2026-11-10T17:30:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks. As participants talk, Claude can draft the plan being discussed, map out a
+
+[中文]
+Anthropic 推出 Claude Meetings，将工作场所的讨论转化为计划和任务。当参与者交谈时，Claude 可以起草正在讨论的计划，规划出
+
+重点短语与搭配
+- As participants talk：当参与者交谈时
+  用法：用于描述两个动作同时发生。
+- map out：规划；筹划
+  用法：指详细制定计划或蓝图。
+
+语法拆解
+- being discussed：draft the plan being discussed
+  现在分词被动语态作后置定语，修饰前面的名词 plan，表示正在被讨论的计划。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks

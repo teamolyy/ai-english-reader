@@ -1,0 +1,23 @@
+谷歌发布了具备智能体“集群”功能的 Gemini 4 Carbon
+Google releases Gemini 4 Carbon with agent ‘swarm’ feature
+来源：The Verge AI · 2026-11-10T15:30:28+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
+
+==========================================================
+第 01 段
+
+[English]
+Google releases Gemini 4 Carbon with agent ‘swarm’ feature. Google is rolling out its latest AI model, Gemini 4 Carbon, to the general public after
+
+[中文]
+谷歌发布了具备智能体“集群”功能的 Gemini 4 Carbon。谷歌正在向公众推出其最新的 AI 模型 Gemini 4 Carbon
+
+重点短语与搭配
+- general public：广大公众
+  用法：指普通大众，而非特定专业群体。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1030787/google-gemini-4-carbon-public-rollout
