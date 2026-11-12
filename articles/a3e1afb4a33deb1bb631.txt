@@ -1,0 +1,27 @@
+谷歌的新款 Gemini 模型在理解复杂问题方面表现更佳
+Google’s new Gemini model is better at understanding complicated questions
+来源：The Verge AI · 2026-11-12T21:55:32+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
+
+==========================================================
+第 01 段
+
+[English]
+Google’s new Gemini model is better at understanding complicated questions. Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex
+
+[中文]
+谷歌的新款 Gemini 模型在理解复杂问题方面表现更佳。谷歌表示其新款 Gemini 4 Hydrogen 模型能够针对复杂问题提供更有帮助的回答
+
+重点短语与搭配
+- give more helpful answers：提供更有帮助的回答
+  用法：常用于评价人工智能或咨询服务提供的反馈质量。
+
+语法拆解
+- can + verb：can give more helpful answers
+  情态动词 can 表示能力，后接动词原形。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen
