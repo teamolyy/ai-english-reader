@@ -1,0 +1,29 @@
+Claude 的 Duet 智能体有点神经质，但出奇地有帮助。
+Claude’s Duet agent is a little neurotic and surprisingly helpful
+来源：The Verge AI · 2026-11-13T00:23:32+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on
+
+==========================================================
+第 01 段
+
+[English]
+Claude’s Duet agent is a little neurotic and surprisingly helpful. Normally, the products I test don't offer to help me write up my experience with
+
+[中文]
+Claude 的 Duet 智能体有点神经质，但出奇地有帮助。通常情况下，我测试的产品不会主动提出帮我撰写使用体验。
+
+重点短语与搭配
+- Normally：通常情况下
+  用法：用于引出一般规律或惯常情况。
+- write up：撰写；记录
+  用法：指将信息整理并写成正式的报告或文章。
+
+语法拆解
+- don't offer to help me：the products I test don't offer to help me write up my experience
+  offer to do something 表示“主动提出做某事”，否定形式表示没有主动提供某项服务。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on

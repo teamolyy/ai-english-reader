@@ -1,0 +1,29 @@
+被禁止出口的英伟达芯片是中国最强大人工智能模型的幕后推手——哎呀，黄仁勋！
+Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!
+来源：TechCrunch AI · 2026-11-13T18:40:30+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen
+
+==========================================================
+第 01 段
+
+[English]
+Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!. New research shows the most advanced AI models from China were
+
+[中文]
+被禁止出口的英伟达芯片是中国最强大人工智能模型的幕后推手——哎呀，黄仁勋！。最新研究表明，中国最先进的人工智能模型是
+
+重点短语与搭配
+- New research shows：最新研究表明
+  用法：常用于新闻报道或学术文章中引出研究结论。
+- most advanced：最先进的
+  用法：用于形容技术、设备或模型处于行业领先水平。
+
+语法拆解
+- the most [adjective] [noun] from [place]：the most advanced AI models from China
+  用于限定特定来源的最高级事物。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen
