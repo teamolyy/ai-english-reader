@@ -1,0 +1,27 @@
+迈向在格点上定义标准模型的一步
+A step toward defining the Standard Model on a lattice
+来源：OpenAI News · 2026-11-15T22:00:01+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/step-toward-defining-the-standard-model
+
+==========================================================
+第 01 段
+
+[English]
+A step toward defining the Standard Model on a lattice. Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped
+
+[中文]
+迈向在格点上定义标准模型的一步。探索一种标准模型非微扰格点定义的候选方案，以及 GPT-6 Astra 如何提供帮助
+
+重点短语与搭配
+- nonperturbative lattice definition：非微扰格点定义
+  用法：指不依赖微扰论的、基于格点场论的理论定义。
+
+语法拆解
+- Explore [noun phrase] and [how clause]：Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped
+  Explore 后面接名词短语和从句，用于引导研究或探讨的内容。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/step-toward-defining-the-standard-model
