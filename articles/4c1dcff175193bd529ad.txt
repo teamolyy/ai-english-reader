@@ -1,0 +1,29 @@
+KiteFishAI 发布 NanoI1，这是一款旨在帮助企业解决数据隐私、基础设施和开发问题的紧凑型 AI 模型。
+KiteFishAI Launches NanoI1, a Compact AI Model to Help Enterprises Address Data Privacy, Infrastructure and De
+来源：CNBC TV18 · 2026-11-17T10:24:33+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUlPTERWYmtreHg5aHlQUFFZT3JqRTE4VEktdEFyR21NNEFETUMwa29fcXRDVzlyRVVYRXE2YVQxbzg0X1luYWhKS0Z0NFNrMXprZlk0YzJUTVpKakNySGtfYy1aTVRpSl9uUmdQS3VReFdlNzZSdUYxTGZPN0FtSTdjcFJUb0l5NGhfek5GR3Jaa2lLUnN3NUhEWVBHdlY2Ykx0M1FpSzNoWC1fLXlCU01OWnZKaGo5NzdGWTVvWWpDeTlneW1KZFpfSFVSZXVTeHc0eWRNNNIB3AFBVV95cUxQM1JjTWFzUVpJcjFOOVdJSHJPYkxZWkhtc2E2QmF3MHJlUDZxM0dGVWlPTXhOLWduR2lvUHA3UDNPbXNDUjlqbUI1ell2QkFJdFlMUmk5Vm82MlZsYmZHUE5UVjczQXNKS3MtU2RkakFFUlhuWnBIVzlqLVJ4MmNsTzAteGdkZFlSVHEzcEVQeExOTDR5YXJCRTRFSnFvNGpINDlKMUhQTzVEaEhzZkZlUjRRb2VzVHk2OGpyaEd2eXA3ZzA5S2RQZmk5UlJVNVN4ckRkYkpRNENISUZx?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+KiteFishAI Launches NanoI1, a Compact AI Model to Help Enterprises Address Data Privacy, Infrastructure and De. KiteFishAI Launches NanoI1, a Compact AI Model to Help
+
+[中文]
+KiteFishAI 发布 NanoI1，这是一款旨在帮助企业解决数据隐私、基础设施和开发问题的紧凑型 AI 模型。KiteFishAI 发布 NanoI1，这是一款旨在帮助企业解决数据隐私、基础设施和开发问题的紧凑型 AI 模型。
+
+重点短语与搭配
+- Address Data Privacy：解决数据隐私问题
+  用法：常用于商业或技术语境，指采取措施应对或处理隐私合规性挑战。
+- Compact AI Model：紧凑型 AI 模型
+  用法：指参数量较小、资源占用较低的 AI 模型，适合在边缘设备或受限环境中运行。
+
+语法拆解
+- to Help Enterprises Address：a Compact AI Model to Help Enterprises Address Data Privacy
+  不定式短语作定语，修饰前面的名词，表示该模型的功能或目的。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMi1wFBVV95cUxPTUlPTERWYmtreHg5aHlQUFFZT3JqRTE4VEktdEFyR21NNEFETUMwa29fcXRDVzlyRVVYRXE2YVQxbzg0X1luYWhKS0Z0NFNrMXprZlk0YzJUTVpKakNySGtfYy1aTVRpSl9uUmdQS3VReFdlNzZSdUYxTGZPN0FtSTdjcFJUb0l5NGhfek5GR3Jaa2lLUnN3NUhEWVBHdlY2Ykx0M1FpSzNoWC1fLXlCU01OWnZKaGo5NzdGWTVvWWpDeTlneW1KZFpfSFVSZXVTeHc0eWRNNNIB3AFBVV95cUxQM1JjTWFzUVpJcjFOOVdJSHJPYkxZWkhtc2E2QmF3MHJlUDZxM0dGVWlPTXhOLWduR2lvUHA3UDNPbXNDUjlqbUI1ell2QkFJdFlMUmk5Vm82MlZsYmZHUE5UVjczQXNKS3MtU2RkakFFUlhuWnBIVzlqLVJ4MmNsTzAteGdkZFlSVHEzcEVQeExOTDR5YXJCRTRFSnFvNGpINDlKMUhQTzVEaEhzZkZlUjRRb2VzVHk2OGpyaEd2eXA3ZzA5S2RQZmk5UlJVNVN4ckRkYkpRNENISUZx?oc=5
