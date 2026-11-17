@@ -1,0 +1,31 @@
+Model ML 筹集了 2.5 亿美元，旨在实现投资银行繁重工作的自动化
+Model ML raises $250M to automate investment banking grunt work
+来源：TechCrunch AI · 2026-11-17T19:32:11+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work
+
+==========================================================
+第 01 段
+
+[English]
+Model ML raises $250M to automate investment banking grunt work. The three-year-old Model ML was valued at $1.5 billion in a new round co-led by
+
+[中文]
+Model ML 筹集了 2.5 亿美元，旨在实现投资银行繁重工作的自动化。这家成立三年的 Model ML 在由……共同领投的新一轮融资中估值达到 15 亿美元。
+
+重点短语与搭配
+- three-year-old：成立三年的
+  用法：用作形容词，描述公司或实体的存续时间。
+- new round：新一轮融资
+  用法：在商业新闻中特指初创企业进行的一轮融资活动。
+- co-led by：由……共同领投
+  用法：用于描述由多家投资机构共同主导的融资轮次。
+
+语法拆解
+- was valued at：Model ML was valued at $1.5 billion
+  被动语态结构，用于陈述公司在特定时间点的市场估值。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/17/model-ml-raises-250m-to-automate-investment-banking-grunt-work

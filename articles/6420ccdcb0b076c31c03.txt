@@ -1,0 +1,25 @@
+随着决策模型的使用激增，定制化会是下一个前沿领域吗？
+As decision model use skyrockets, is customization the next frontier?
+来源：TechCrunch AI · 2026-11-17T18:10:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier
+
+==========================================================
+第 01 段
+
+[English]
+As decision model use skyrockets, is customization the next frontier?. Sqwish Labs has a new wrinkle on the decision model: Train it with your own
+
+[中文]
+随着决策模型的使用激增，定制化会是下一个前沿领域吗？Sqwish Labs 对决策模型提出了一个新颖的见解：用你自己的数据来训练它。
+
+重点短语与搭配
+- new wrinkle：新颖的见解/新花样
+  用法：指对某事物提出的新观点、新方法或意想不到的转折。
+- Train it with your own：用你自己的（数据）来训练它
+  用法：在技术语境下，指利用私有数据对模型进行微调或训练。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/17/as-decision-model-use-skyrockets-is-customization-is-the-next-frontier

@@ -1,0 +1,29 @@
+微软旨在通过更便宜、更专业的 AI 模型挑战 OpenAI 和 Anthropic
+Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models
+来源：Axios · 2026-11-17T18:39:32+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models. Microsoft aims to challenge OpenAI, Anthropic with cheaper, specialized AI models Axios
+
+[中文]
+微软旨在通过更便宜、更专业的 AI 模型挑战 OpenAI 和 Anthropic。微软旨在通过更便宜、更专业的 AI 模型挑战 OpenAI 和 Anthropic Axios
+
+重点短语与搭配
+- aims to challenge：旨在挑战
+  用法：用于描述某机构或个人计划在竞争中对抗某方。
+- specialized AI models：专业化 AI 模型
+  用法：指针对特定任务或领域进行优化的模型。
+
+语法拆解
+- aims to + [verb]：Microsoft aims to challenge
+  表示某人或某机构的目标是做某事。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMiggFBVV95cUxOWnpSWUhVX2NkMm9wR1R1dE92a2VBYVM5TUpKc19Ia3NsSlVmUmZfTjNfYVVuTnU4ZjJPMHJJWHNrclcxT3dSZGZ5ckdDYlM3M3BvcGVNNGtkb1ZKZk5KM2ZvOGJKdVhtLU5fQ3JtSDZsMW5rbGwwczhEX2R4TTY5Nm9n?oc=5

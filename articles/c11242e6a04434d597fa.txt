@@ -1,0 +1,35 @@
+随着 SiMa.ai 发布 Palette 3.0，本地和离线边缘人工智能得到了提升，其文本生成速度提高了 3.5 倍，并新增了一个模型浏览器。
+Local and offline edge AI gets a boost as SiMa.ai launches Palette 3.0 with 3.5X faster text generation and a new model browser
+来源：VentureBeat · 2026-11-17T16:23:15+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbm1nWGFUR3dMZ2ZxLVFRUzlSaFdJeWx0akZJUnFhOENRNzkwZWJwQW84amplX3hyb0J3VFhKVk91NmEtOWoxenBEdUo5NS1MaDM1T205QXV1Skx2dk41SV9wVzBoWUl2YWpQd3ZkZ2tYb2dqQjRHNnFaRHlKUmFuSFd3Z3d1aHp6VVNweEl2VHY0WEJmUWZNX0dWSnE4VVpyejdqRzVBUW82NDluTFFzbVh1aHU0RWgxSnU4OXhtQ21aaFQ5cHI5WDB1Vm5LQVNnUzNnVWhRdldITTBjM0pJTU00Qmh3SDl6TXh6UnVqREtzMjZfNEZGQzZR?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Local and offline edge AI gets a boost as SiMa.ai launches Palette 3.0 with 3.5X faster text generation and a new model browser. Local and
+
+[中文]
+随着 SiMa.ai 发布 Palette 3.0，本地和离线边缘人工智能得到了提升，其文本生成速度提高了 3.5 倍，并新增了一个模型浏览器。本地和
+
+重点短语与搭配
+- edge AI：边缘人工智能
+  用法：指在靠近数据源的设备上运行的 AI，而非依赖云端。
+- gets a boost：得到提升/推动
+  用法：常用于描述某项技术或行业获得发展动力。
+- text generation：文本生成
+  用法：指大语言模型根据输入生成文本的过程。
+- model browser：模型浏览器
+  用法：指用于查看、搜索或管理 AI 模型的软件界面。
+
+语法拆解
+- as + [clause]：as SiMa.ai launches Palette 3.0
+  此处 as 表示“随着”，引导从句说明背景情况。
+- with + [noun phrase]：with 3.5X faster text generation
+  介词 with 在此用于补充说明 Palette 3.0 的具体特征或优势。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbm1nWGFUR3dMZ2ZxLVFRUzlSaFdJeWx0akZJUnFhOENRNzkwZWJwQW84amplX3hyb0J3VFhKVk91NmEtOWoxenBEdUo5NS1MaDM1T205QXV1Skx2dk41SV9wVzBoWUl2YWpQd3ZkZ2tYb2dqQjRHNnFaRHlKUmFuSFd3Z3d1aHp6VVNweEl2VHY0WEJmUWZNX0dWSnE4VVpyejdqRzVBUW82NDluTFFzbVh1aHU0RWgxSnU4OXhtQ21aaFQ5cHI5WDB1Vm5LQVNnUzNnVWhRdldITTBjM0pJTU00Qmh3SDl6TXh6UnVqREtzMjZfNEZGQzZR?oc=5
