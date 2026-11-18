@@ -1,0 +1,29 @@
+利用 OpenAI 模型推进芯片设计
+Advancing chip design with OpenAI models
+来源：OpenAI News · 2026-11-18T00:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/advancing-chip-design-with-our-models
+
+==========================================================
+第 01 段
+
+[English]
+Advancing chip design with OpenAI models. OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design
+
+[中文]
+利用 OpenAI 模型推进芯片设计。OpenAI 模型优化了用于 Jalapeño 芯片的电路，并改进了 RISC-V 核心设计，展示了人工智能辅助芯片设计的进展。
+
+重点短语与搭配
+- optimized circuits：优化电路
+  用法：指通过算法或技术手段提升电路的性能或效率。
+- AI-assisted chip design：人工智能辅助芯片设计
+  用法：指利用 AI 技术作为工具来辅助完成芯片设计流程。
+
+语法拆解
+- used in：circuits used in Jalapeño silicon
+  过去分词短语作后置定语，修饰前面的名词 circuits，表示“被用于……的电路”。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/advancing-chip-design-with-our-models
