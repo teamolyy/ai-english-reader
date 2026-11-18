@@ -1,0 +1,29 @@
+微软表示其新型人工智能编程模型在成本仅为 5% 的情况下，可媲美 Claude Opus 5.5。
+Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost
+来源：ZDNET · 2026-11-17T22:42:44+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnIyYlA2MTF3bjg5VFFOOFkxdHNDbDBwYWc2SU9LXzIwVno5blktS0NNdV9CVXdnOTlzYkh0dWpFbEpMQkZpa1BCdXFpR0dLdlAzS3VCODFiQTBwbnFjTkdoVzlkYUUzY3VjT3c1MzB0cEZZdjQ4cUcyOHd1QzE3UGl2M2pZZkh1bG9lTktpSmIta0E?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Microsoft says its new AI coding model rivals Claude Opus 5.5 at 5% of the cost. Microsoft says its new AI coding model rivals Claude
+
+[中文]
+微软表示其新型人工智能编程模型在成本仅为 5% 的情况下，可媲美 Claude Opus 5.5。微软表示其新型人工智能编程模型可媲美 Claude。
+
+重点短语与搭配
+- rivals：媲美，与……相匹敌
+  用法：用于描述某事物在质量或性能上与另一事物相当。
+- at 5% of the cost：以 5% 的成本
+  用法：用于对比价格或成本优势。
+
+语法拆解
+- at [percentage] of the [noun]：at 5% of the cost
+  用于表示比例或折扣，强调相对于基准的成本或数量。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMikwFBVV95cUxQNnIyYlA2MTF3bjg5VFFOOFkxdHNDbDBwYWc2SU9LXzIwVno5blktS0NNdV9CVXdnOTlzYkh0dWpFbEpMQkZpa1BCdXFpR0dLdlAzS3VCODFiQTBwbnFjTkdoVzlkYUUzY3VjT3c1MzB0cEZZdjQ4cUcyOHd1QzE3UGl2M2pZZkh1bG9lTktpSmIta0E?oc=5

@@ -1,0 +1,29 @@
+“基本无法使用”：OpenAI 发布 GPT-6.2 Astra 和 Sol，遭到 AI 高级用户负面评价
+'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users
+来源：VentureBeat · 2026-11-17T22:33:40+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0p5RXctRUhTQzMxTEdQYnJxaVozUkFlQmJOSEJrQjVfeEdrdDJBcExkcmhEUGpoZTN0dXo3dVhxajVwWlpWdVAyRzNDUTBEdi1rekFrT0l3VlgxMFVic1c1ZG9fTVpaVEh0UzAtOUdGRmtVSDdHdHpHRzRiWGY3QUVndjItemljNG8wZVJrNWo3azFrWTVHQmtWczhTcDdGblJmbjhiOFEyS0pULWNQSG9MVkNLVzhJTjBFaUtGaE16UFA0d1c2YzMtX3Z4Tkdm?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative reception from AI power users. 'Essentially unusable': OpenAI launches GPT-6.2 Astra and Sol to negative
+
+[中文]
+“基本无法使用”：OpenAI 发布 GPT-6.2 Astra 和 Sol，遭到 AI 高级用户负面评价。“基本无法使用”：OpenAI 发布 GPT-6.2 Astra 和 Sol，遭到负面评价
+
+重点短语与搭配
+- Essentially unusable：基本无法使用
+  用法：用于形容某产品或服务因缺陷严重而无法达到预期功能。
+- negative reception：负面评价/反响
+  用法：常用于描述公众或特定群体对新产品、政策或作品的消极反馈。
+
+语法拆解
+- launches [Product] to [Reaction]：OpenAI launches GPT-6.2 Astra and Sol to negative reception
+  “to + 名词”结构在此处表示动作产生的结果或引发的反应。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0p5RXctRUhTQzMxTEdQYnJxaVozUkFlQmJOSEJrQjVfeEdrdDJBcExkcmhEUGpoZTN0dXo3dVhxajVwWlpWdVAyRzNDUTBEdi1rekFrT0l3VlgxMFVic1c1ZG9fTVpaVEh0UzAtOUdGRmtVSDdHdHpHRzRiWGY3QUVndjItemljNG8wZVJrNWo3azFrWTVHQmtWczhTcDdGblJmbjhiOFEyS0pULWNQSG9MVkNLVzhJTjBFaUtGaE16UFA0d1c2YzMtX3Z4Tkdm?oc=5

@@ -1,0 +1,29 @@
+微软发布用于编程和网络安全的 AI 模型，旨在挑战 Anthropic 和 OpenAI
+Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI
+来源：Reuters · 2026-11-17T18:18:54+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI. Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic,
+
+[中文]
+微软发布用于编程和网络安全的 AI 模型，旨在挑战 Anthropic 和 OpenAI。微软发布用于编程和网络安全的 AI 模型，旨在挑战 Anthropic。
+
+重点短语与搭配
+- takes on：挑战，与……竞争
+  用法：常用于商业或体育语境，表示向更强大的对手发起挑战。
+- unveils AI models：发布 AI 模型
+  用法：用于科技新闻，指正式向公众展示或推出新产品。
+
+语法拆解
+- as it takes on：Microsoft unveils AI models for coding, cybersecurity as it takes on Anthropic, OpenAI
+  这里的 as 引导从句，表示“在……的同时”或“随着”，强调动作发生的背景或伴随的意图。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ05INXRWaGd0ZFhsSkZWMjBZeFNJYU1JOEhkRG9PT1V5SUl6YTNNMzFWblJXZVdjVHJzZW5raFlUbzlHMTNHemFUVWZab28xS0M3RzkyN2c2Ukl6VUR4SUF6RFRpVjRieGRFUWJGZUNsMzkyR1B0bnlxSFFQMHpFT2JCQ09KM0FMcUZWXzlZaEVmanRiMmtuOGxGQnNKbDZkM0hJVGpwNURRN0daX29GX2tHZ0pIU3NrRk5JbVVpZ1d1WGN0cHc?oc=5
