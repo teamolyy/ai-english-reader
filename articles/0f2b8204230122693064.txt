@@ -1,0 +1,29 @@
+Sarvam 在新的 Token Factory 中将其自有模型定价低于 DeepSeek
+Sarvam Prices Its Own Model Below DeepSeek In New Token Factory
+来源：Forbes · 2026-11-19T12:31:02+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekxSVzdzd1ZVSF9pT3MwSTV1TkJnSnVEU19WVTlkblNCbXRZN3hvREVkdHdFeEtpODVfTW9oeFNsbTFBSE9xZ3lRLTlhbWJGUHpuMi1acHRKZ0xLdXg0bGVoa2NfSTlLU2djVmMxNDhzSG56UEt5anpxclUyS0RXZzFSR3AyVU8yM1N0LUE1UnhWUlV1LVUtb2lMejllaDFDWEQtcmplcFVyMlVoN3UtVjhaUVZDdl8z?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Sarvam Prices Its Own Model Below DeepSeek In New Token Factory. Sarvam Prices Its Own Model Below DeepSeek In New Token Factory Forbes
+
+[中文]
+Sarvam 在新的 Token Factory 中将其自有模型定价低于 DeepSeek。Sarvam 在新的 Token Factory 中将其自有模型定价低于 DeepSeek Forbes
+
+重点短语与搭配
+- Prices Its Own Model Below：将自有模型定价低于...
+  用法：用于描述企业在市场竞争中采取的价格策略。
+- Token Factory：代币工厂
+  用法：指代 AI 模型推理服务平台。
+
+语法拆解
+- Prices [object] Below [competitor]：Sarvam Prices Its Own Model Below DeepSeek
+  新闻标题中常见的动宾结构，用于快速传达价格竞争关系。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekxSVzdzd1ZVSF9pT3MwSTV1TkJnSnVEU19WVTlkblNCbXRZN3hvREVkdHdFeEtpODVfTW9oeFNsbTFBSE9xZ3lRLTlhbWJGUHpuMi1acHRKZ0xLdXg0bGVoa2NfSTlLU2djVmMxNDhzSG56UEt5anpxclUyS0RXZzFSR3AyVU8yM1N0LUE1UnhWUlV1LVUtb2lMejllaDFDWEQtcmplcFVyMlVoN3UtVjhaUVZDdl8z?oc=5
