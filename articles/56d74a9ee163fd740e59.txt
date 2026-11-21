@@ -1,0 +1,29 @@
+这位家庭实验室爱好者的第二代傲腾（Optane）配置使用了两张 RTX 3090 显卡，以每秒 3.11 个 token 的速度运行 2.8 万亿参数的 Kimi AI 模型——将近一半的模型移至内存盘后，性能提升了 41%。
+Homelabber’s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second — moving nearly half the model into a RAM drive boosted performance by 41%
+来源：Tom's Hardware · 2026-11-21T12:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMihgNBVV95cUxQZGw4SXliaVBSLTN6UzdueVpzZ2ZPRlhBQkdZbEpaQ3R3Qi1aQ3ozSWVuYXVuVjdNdVp2N0xTUTV1amhycGNWeDFTYkJLNVZ2ZzR4LS0yU295TlJWQUhxeTFDSGNRcFEwRGpVd0NsTmplX1ZFX1F4Y1hKUDdJY01MbXV5dlVWM0dqUTNaSG9wODBrZjBXV25yVG9hNndaQVQ3LVVwcEo5V2I3QlFKY08tYXhIaGJ2Z1JRMU4tdHhJNFpDbHRhcUVQUmRzY2V1TC1RU1RKaEN5QUc2M1ZMQXNhcmtGN0d1ZWNDUWxjSC1lR3JFQlZKTFlRNjlJVlZfUFhYV1kwc0JWaWtWN3hXQlNKODRMalRLc3lRMjU4UnNIMGhPMng4Q3g3Y1hlT3JzQm9zbzNybUZjSkVlSWxfY19Hcnk2d19NLU9maTZETjcwZmg3NnN1WFlLa2hLZGhCV0lPTnIzYjg0c0oyYmEwLS1VY0xKNXJWTmxOYUNYSDZLNmdtWkg3V3c?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+Homelabber’s second-gen Optane build uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second — moving nearly half the model
+
+[中文]
+这位家庭实验室爱好者的第二代傲腾（Optane）配置使用了两张 RTX 3090 显卡，以每秒 3.11 个 token 的速度运行 2.8 万亿参数的 Kimi AI 模型——将近一半的模型移至内存盘。
+
+重点短语与搭配
+- Homelabber：家庭实验室爱好者
+  用法：指那些在家里搭建服务器或网络环境进行技术实验的人。
+- 2.8-trillion-parameter：2.8 万亿参数的
+  用法：用于描述大型语言模型规模的复合形容词。
+
+语法拆解
+- uses [A] to run [B] at [C]：uses two RTX 3090s to run 2.8-trillion-parameter Kimi AI model at 3.11 tokens per second
+  描述使用某种硬件配置（A）以特定速率（C）运行某项任务（B）的标准句式。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMihgNBVV95cUxQZGw4SXliaVBSLTN6UzdueVpzZ2ZPRlhBQkdZbEpaQ3R3Qi1aQ3ozSWVuYXVuVjdNdVp2N0xTUTV1amhycGNWeDFTYkJLNVZ2ZzR4LS0yU295TlJWQUhxeTFDSGNRcFEwRGpVd0NsTmplX1ZFX1F4Y1hKUDdJY01MbXV5dlVWM0dqUTNaSG9wODBrZjBXV25yVG9hNndaQVQ3LVVwcEo5V2I3QlFKY08tYXhIaGJ2Z1JRMU4tdHhJNFpDbHRhcUVQUmRzY2V1TC1RU1RKaEN5QUc2M1ZMQXNhcmtGN0d1ZWNDUWxjSC1lR3JFQlZKTFlRNjlJVlZfUFhYV1kwc0JWaWtWN3hXQlNKODRMalRLc3lRMjU4UnNIMGhPMng4Q3g3Y1hlT3JzQm9zbzNybUZjSkVlSWxfY19Hcnk2d19NLU9maTZETjcwZmg3NnN1WFlLa2hLZGhCV0lPTnIzYjg0c0oyYmEwLS1VY0xKNXJWTmxOYUNYSDZLNmdtWkg3V3c?oc=5
