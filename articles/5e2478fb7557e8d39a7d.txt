@@ -1,0 +1,31 @@
+Anthropic 发布 Claude Ship，让 AI 智能体能够审查、修复并批准代码变更。
+Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes
+来源：TechCrunch AI · 2026-11-23T22:05:50+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes
+
+==========================================================
+第 01 段
+
+[English]
+Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes. As AI-generated code piles up, Anthropic's new developer tools aim to eliminate
+
+[中文]
+Anthropic 发布 Claude Ship，让 AI 智能体能够审查、修复并批准代码变更。随着 AI 生成的代码不断堆积，Anthropic 的新开发工具旨在消除（这些问题）。
+
+重点短语与搭配
+- AI-generated code：AI 生成的代码
+  用法：指由人工智能模型编写或辅助编写的代码。
+- piles up：堆积
+  用法：形容数量不断增加，常带有负面含义，暗示难以处理。
+- developer tools：开发工具
+  用法：指辅助程序员进行开发、调试或部署的软件。
+
+语法拆解
+- As + [clause]：As AI-generated code piles up
+  此处 As 表示“随着”，用于引导从句，描述伴随发生的背景情况。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes
