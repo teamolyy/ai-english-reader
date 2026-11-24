@@ -1,0 +1,29 @@
+GPT-6 模型展现出内在的蛋白质设计能力
+GPT-6 models demonstrate intrinsic protein-design capabilities
+来源：OpenAI News · 2026-11-24T13:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
+
+==========================================================
+第 01 段
+
+[English]
+GPT-6 models demonstrate intrinsic protein-design capabilities. GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five
+
+[中文]
+GPT-6 模型展现出内在的蛋白质设计能力。GPT-6 模型利用推理和代码来设计蛋白质结构和序列。实验室测试发现了跨越五种（蛋白质）结合的证据
+
+重点短语与搭配
+- protein structures and sequences：蛋白质结构和序列
+  用法：生物化学领域常用术语，指代蛋白质的物理形态与氨基酸排列顺序。
+- evidence of binding：结合的证据
+  用法：科学研究中用于描述分子间相互作用的表达。
+
+语法拆解
+- using [noun] and [noun]：using reasoning and code
+  表示通过某种手段或工具来完成动作，此处强调了模型利用逻辑推理与编程能力进行设计。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities
