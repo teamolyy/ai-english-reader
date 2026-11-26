@@ -1,0 +1,29 @@
+隆重推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准测试仪表板
+Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon
+来源：Hugging Face Blog · 2026-11-26T11:37:17+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://huggingface.co/blog/ggml-org/llamacpp-amd-bench
+
+==========================================================
+第 01 段
+
+[English]
+Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon.
+
+[中文]
+隆重推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准测试仪表板。
+
+重点短语与搭配
+- Introducing：隆重推出，介绍
+  用法：常用于产品发布、新功能上线或新项目介绍的标题开头。
+- benchmark dashboard：基准测试仪表板
+  用法：用于展示性能测试数据和可视化结果的界面。
+
+语法拆解
+- Introducing the [noun]：Introducing the llama.cpp benchmark dashboard
+  使用现在分词短语作为标题的开头，起到吸引注意并直接点明主题的作用。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://huggingface.co/blog/ggml-org/llamacpp-amd-bench

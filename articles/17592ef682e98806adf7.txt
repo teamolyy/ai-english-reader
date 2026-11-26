@@ -1,0 +1,27 @@
+独家：消息人士称，美国芯片限制和蒸馏技术打压威胁到中国人工智能模型的发展
+EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say
+来源：Reuters · 2026-11-26T07:19:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5
+
+==========================================================
+第 01 段
+
+[English]
+EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say. EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources
+
+[中文]
+独家：消息人士称，美国芯片限制和蒸馏技术打压威胁到中国人工智能模型的发展。独家：消息人士称，美国芯片限制和蒸馏技术打压威胁到中国人工智能模型的发展
+
+重点短语与搭配
+- chip curbs：芯片限制
+  用法：指政府对芯片出口或技术转让实施的贸易限制措施。
+- distillation crackdown：对蒸馏技术的打压
+  用法：指针对人工智能模型蒸馏（一种模型压缩技术）所采取的限制或监管行动。
+- threaten Chinese AI model development：威胁到中国人工智能模型的发展
+  用法：用于描述某种外部因素对特定行业或技术进步造成的负面影响。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5
