@@ -1,0 +1,29 @@
+Sakana AI 的首席执行官表示，其本土模型不仅仅关乎日本的国家安全。
+Sakana AI’s CEO says its homegrown models are about more than Japan’s national security
+来源：TechCrunch AI · 2026-11-28T14:00:00+00:00
+阅读模式：短句精读 · 未获全文转载授权
+原文链接：https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security
+
+==========================================================
+第 01 段
+
+[English]
+Sakana AI’s CEO says its homegrown models are about more than Japan’s national security. Sakana AI aims to strengthen Japan’s industrial competitiveness with homegrown AI
+
+[中文]
+Sakana AI 的首席执行官表示，其本土模型不仅仅关乎日本的国家安全。Sakana AI 旨在通过本土人工智能增强日本的产业竞争力。
+
+重点短语与搭配
+- industrial competitiveness：产业竞争力
+  用法：常用于经济和商业语境，描述国家或企业在行业内的优势。
+- aims to：旨在，目标是
+  用法：用于陈述机构或个人的战略目标。
+
+语法拆解
+- aim to + 动词原形：Sakana AI aims to strengthen Japan’s industrial competitiveness
+  表示主语致力于实现某项具体行动或目标。
+
+----------------------------------------------------------
+
+提示：gemini-3.1-flash-lite API 机器翻译，未经人工逐句审核；短语与语法讲解可能遗漏或误判；数字、型号与重要结论请核对原文。
+原文链接：https://techcrunch.com/2026/11/28/sakana-ais-ceo-says-its-homegrown-models-are-about-more-than-japans-national-security
